@@ -6,11 +6,12 @@
     "content_date": "03 September 2026",
     "channel": "StudyHub Point",
     "language": "Hindi",
-    "total_questions": 11,
+    "total_questions": 10,
     "source_priority": "Official first, cross-checked reliable sources",
     "difficulty_mix_core11": "8 Moderate / 2 Easy / 1 Tough",
-    "verification_note": "Final 11 selected headlines. SCO Tourism Capital item and Commonwealth Parliamentary Conference item were left out as instructed; all included questions were checked for recent-topic repetition.",
-    "new_format_note": "v2.0 production fields; all highlights are exact substrings of each question content and were programmatically validated."
+    "verification_note": "Final 10 selected headlines. Q7 (US House stopgap funding bill) was removed as instructed. SCO Tourism Capital item and Commonwealth Parliamentary Conference item were also left out; all included questions were checked for recent-topic repetition.",
+    "new_format_note": "v2.0 production fields; all highlights are exact substrings of each question content and were programmatically validated.",
+    "difficulty_mix_core10": "7 Moderate / 2 Easy / 1 Tough"
   },
   "mcqs": [
     {
@@ -501,87 +502,6 @@
     {
       "question_number": "Q7",
       "date": "03 September 2026",
-      "category": "अंतरराष्ट्रीय राजनीति",
-      "question_text": "US House ने government shutdown टालने के लिए किस प्रकार का bill pass किया?",
-      "options": [
-        "Stopgap funding bill / Continuing Resolution",
-        "Permanent Tax Bill",
-        "Defence Authorisation Act",
-        "Emergency Trade Bill"
-      ],
-      "correct_option_id": 0,
-      "explanation": [
-        "US House of Representatives ने stopgap funding bill यानी continuing resolution को 370–48 vote से pass किया।",
-        "इससे federal government को 11 December 2026 तक वर्तमान स्तर पर funding जारी रखने का रास्ता मिला और shutdown टल गया।"
-      ],
-      "exam_focus_facts": [
-        "bill — stopgap funding bill",
-        "दूसरा नाम — continuing resolution (CR)",
-        "House vote — 370–48",
-        "funding अवधि — 11 December 2026 तक",
-        "उद्देश्य — government shutdown टालना"
-      ],
-      "related_facts": [
-        "US Senate ने measure को पहले pass किया था",
-        "Bill federal agencies की funding current levels पर रखता है",
-        "Full-year fiscal 2027 appropriations के लिए अतिरिक्त समय मिला",
-        "US fiscal year 1 October से शुरू होता है"
-      ],
-      "source": "Associated Press via Military Times",
-      "source_type": "Tier-2",
-      "confidence": "HIGH",
-      "importance": 4,
-      "news_age": "2 Day",
-      "highlights": [
-        "US House of Representatives",
-        "government shutdown",
-        "stopgap funding bill",
-        "continuing resolution",
-        "CR",
-        "370–48",
-        "11 December 2026",
-        "federal government",
-        "funding",
-        "current levels",
-        "Full-year fiscal 2027 appropriations",
-        "US Senate",
-        "fiscal year",
-        "1 October",
-        "bill",
-        "House vote",
-        "उद्देश्य",
-        "shutdown टालना",
-        "funding अवधि",
-        "federal agencies",
-        "measure",
-        "pass",
-        "अतिरिक्त समय",
-        "Permanent",
-        "Tax Bill",
-        "Defence Authorisation Act",
-        "Emergency Trade Bill",
-        "funding bill",
-        "resolution",
-        "October",
-        "December",
-        "370",
-        "48",
-        "current",
-        "levels",
-        "appropriations",
-        "government",
-        "US",
-        "House",
-        "shutdown"
-      ],
-      "font_size_scale": 1.15,
-      "explanation_image_url": "images/7.png",
-      "explanation_image_label": "",
-      "source_url": "https://www.militarytimes.com/news/pentagon-congress/2026/09/01/house-passes-funding-bill-to-avert-government-shutdown/"
-    },
-    {
-      "question_number": "Q8",
-      "date": "03 September 2026",
       "category": "लोकतंत्र और शासन",
       "question_text": "V-Dem Democracy Report के अनुसार भारत का Electoral Democracy Index score कितना रहा?",
       "options": [
@@ -656,12 +576,12 @@
         "रत"
       ],
       "font_size_scale": 1.15,
-      "explanation_image_url": "images/8.png",
+      "explanation_image_url": "images/7.png",
       "explanation_image_label": "",
       "source_url": "https://www.thehindu.com/data/v-dems-democracy-index-rates-india-at-its-lowest-since-1975/article71413896.ece"
     },
     {
-      "question_number": "Q9",
+      "question_number": "Q8",
       "date": "03 September 2026",
       "category": "उत्तर प्रदेश शासन",
       "question_text": "उत्तर प्रदेश सरकार ने outsourced employees के अधिकारों और वेतन की सुरक्षा के लिए कौन-सा portal launch किया?",
@@ -737,12 +657,12 @@
         "outsourced"
       ],
       "font_size_scale": 1.15,
-      "explanation_image_url": "images/9.png",
+      "explanation_image_url": "images/8.png",
       "explanation_image_label": "",
       "source_url": "https://thehindubusinessline.com/news/uttar-pradesh-launches-upcos-to-safeguard-rights-and-salaries-of-outsourced-workers/article71419809.ece"
     },
     {
-      "question_number": "Q10",
+      "question_number": "Q9",
       "date": "03 September 2026",
       "category": "पर्यावरण और जलवायु",
       "question_text": "UNEP की “Limiting Overshoot” report के अनुसार सबसे optimistic scenario में global warming कितने डिग्री तक peak कर सकती है?",
@@ -818,12 +738,12 @@
         "कर"
       ],
       "font_size_scale": 1.15,
-      "explanation_image_url": "images/10.png",
+      "explanation_image_url": "images/9.png",
       "explanation_image_label": "",
       "source_url": "https://www.nature.com/articles/d41586-026-02753-5"
     },
     {
-      "question_number": "Q11",
+      "question_number": "Q10",
       "date": "03 September 2026",
       "category": "कृषि और वित्तीय बाजार",
       "question_text": "NCDEX ने Chennai rainfall पर आधारित किस weather futures contract को launch किया?",
@@ -899,7 +819,7 @@
         "Northeast"
       ],
       "font_size_scale": 1.15,
-      "explanation_image_url": "images/11.png",
+      "explanation_image_url": "images/10.png",
       "explanation_image_label": "",
       "source_url": "https://www.thehindubusinessline.com/economy/agri-business/ncdex-launches-futures-on-chennai-rains/article71410804.ece"
     }
@@ -911,7 +831,6 @@
     "Duleep Trophy में सबसे कम उम्र में half-century बनाने वाले खिलाड़ी कौन बने?",
     "26वें SCO Summit की Bishkek Declaration में Afghanistan के संबंध में क्या कहा गया?",
     "DGFT ने exporters के लिए किस certificate की issuance process को automated किया है?",
-    "US House ने government shutdown टालने के लिए किस प्रकार का bill pass किया?",
     "V-Dem Democracy Report के अनुसार भारत का Electoral Democracy Index score कितना रहा?",
     "उत्तर प्रदेश सरकार ने outsourced employees के अधिकारों और वेतन की सुरक्षा के लिए कौन-सा portal launch किया?",
     "UNEP की “Limiting Overshoot” report के अनुसार सबसे optimistic scenario में global warming कितने डिग्री तक peak कर सकती है?",
