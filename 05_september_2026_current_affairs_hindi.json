@@ -1,0 +1,512 @@
+{
+  "metadata": {
+    "title": "05 September 2026 Current Affairs Hindi",
+    "date": "05 September 2026",
+    "language": "Hindi-first",
+    "total_questions": 10
+  },
+  "mcqs": [
+    {
+      "question_number": "Q1",
+      "date": "05 September 2026",
+      "category": "रक्षा कूटनीति",
+      "question_text": "रक्षा मंत्री राजनाथ सिंह द्वारा 3 सितंबर 2026 को जारी ‘RAKSHA’ दस्तावेज किस क्षेत्र का 10-वर्षीय रोडमैप है?",
+      "options": [
+        "अंतरिक्ष नीति",
+        "समुद्री मत्स्य नीति",
+        "रक्षा कूटनीति",
+        "परमाणु ऊर्जा नीति"
+      ],
+      "correct_option_id": 2,
+      "explanation": [
+        "RAKSHA भारत की defence diplomacy का 10-वर्षीय strategic roadmap है।",
+        "इसके चार pillars strategic partnerships, capacity building, indigenous exports और maritime security हैं।"
+      ],
+      "exam_focus_facts": [
+        "RAKSHA — 3 सितंबर 2026 को जारी",
+        "दस्तावेज — defence diplomacy का 10-वर्षीय roadmap",
+        "मुख्य pillars — strategic partnerships, capacity building, indigenous exports और maritime security"
+      ],
+      "related_facts": [
+        "भारत की foreign policy में defence diplomacy का महत्व",
+        "Indian Ocean Region में Net Security Provider की भूमिका",
+        "Make in India defence platforms और exports पर जोर"
+      ],
+      "source": "Ministry of Defence",
+      "source_type": "Official + Tier-2",
+      "confidence": "HIGH",
+      "importance": 5,
+      "news_age": "2 Day",
+      "highlights": [
+        "RAKSHA",
+        "3 सितंबर 2026",
+        "defence diplomacy",
+        "10-वर्षीय strategic roadmap",
+        "strategic partnerships",
+        "capacity building",
+        "indigenous exports",
+        "maritime security",
+        "Net Security Provider",
+        "Indian Ocean Region",
+        "Make in India"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/1.png",
+      "explanation_image_label": "",
+      "source_url": "https://x.com/SpokespersonMoD/status/2095415309666803740"
+    },
+    {
+      "question_number": "Q2",
+      "date": "05 September 2026",
+      "category": "भारत-बेल्जियम संबंध",
+      "question_text": "भारत-बेल्जियम रक्षा औद्योगिक सहयोग के अंतर्गत कितने agreements पर हस्ताक्षर किए गए?",
+      "options": [
+        "3",
+        "10",
+        "5",
+        "15"
+      ],
+      "correct_option_id": 1,
+      "explanation": [
+        "भारत और बेल्जियम ने defence industries के बीच 10 agreements किए।",
+        "इनमें Thales Belgium के 70mm rockets की भारत में assembly और counter-drone systems पर सहयोग शामिल है।"
+      ],
+      "exam_focus_facts": [
+        "कुल — 10 defence-industrial agreements",
+        "70mm rockets — भारत में assembly प्रस्तावित",
+        "सहयोग — ammunition, mine-countermeasure और counter-drone systems"
+      ],
+      "related_facts": [
+        "Belgian PM Bart De Wever की 2–4 सितंबर 2026 भारत यात्रा",
+        "SIDM और Belgian Security and Defence Industry के बीच cooperation",
+        "पहला पूरी तरह भारत-निर्मित rocket — 2027 की शुरुआत में expected"
+      ],
+      "source": "ThePrint",
+      "source_type": "Tier-2",
+      "confidence": "HIGH",
+      "importance": 5,
+      "news_age": "2 Day",
+      "highlights": [
+        "भारत और बेल्जियम",
+        "10 agreements",
+        "defence industries",
+        "70mm rockets",
+        "भारत में assembly",
+        "ammunition",
+        "mine-countermeasure",
+        "counter-drone systems",
+        "Bart De Wever",
+        "SIDM",
+        "2027 की शुरुआत"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/2.png",
+      "explanation_image_label": "",
+      "source_url": "https://theprint.in/defence/india-belgium-sign-10-defence-deals-brussels-assures-no-military-tech-to-pakistan/3032659/"
+    },
+    {
+      "question_number": "Q3",
+      "date": "05 September 2026",
+      "category": "कौशल और कृत्रिम बुद्धिमत्ता",
+      "question_text": "NIELIT और Intel India ने कौन-से Agentic AI programmes शुरू किए?",
+      "options": [
+        "AI for Agriculture और AI for Defence",
+        "India AI Stack और Bharat AI Mission",
+        "Digital India AI और Future Skills India",
+        "Agentic AI for Everyone और Engineering Agentic AI Systems"
+      ],
+      "correct_option_id": 3,
+      "explanation": [
+        "NIELIT, MeitY के अंतर्गत काम करने वाला संस्थान, और Intel India ने Agentic AI skilling initiative शुरू किया।",
+        "पहला programme basic learners के लिए है, जबकि दूसरा programme agent architecture और deployment जैसे technical areas पर केंद्रित है।"
+      ],
+      "exam_focus_facts": [
+        "NIELIT — MeitY के अंतर्गत संस्थान",
+        "Agentic AI for Everyone — workflow automation और multi-agent systems",
+        "Engineering Agentic AI Systems — architecture, tool integration और deployment"
+      ],
+      "related_facts": [
+        "Agentic AI — reasoning, planning और complex tasks execute करने वाले systems",
+        "पहले programme में no-code platforms का practical exposure",
+        "initiative का लक्ष्य — future-ready AI workforce"
+      ],
+      "source": "Business Today / ANI",
+      "source_type": "Tier-2",
+      "confidence": "HIGH",
+      "importance": 5,
+      "news_age": "2 Day",
+      "highlights": [
+        "NIELIT",
+        "MeitY",
+        "Intel India",
+        "Agentic AI",
+        "Agentic AI skilling initiative",
+        "Agentic AI for Everyone",
+        "Engineering Agentic AI Systems",
+        "workflow automation",
+        "multi-agent systems",
+        "agent architecture",
+        "future-ready AI workforce"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/3.png",
+      "explanation_image_label": "",
+      "source_url": "https://www.businesstoday.in/technology/artificial-intelligence/story/indian-govt-launches-agentic-ai-skilling-program-with-intel-to-prepare-workforce-all-details-553246-2026-09-03"
+    },
+    {
+      "question_number": "Q4",
+      "date": "05 September 2026",
+      "category": "अंतरिक्ष सहयोग",
+      "question_text": "भारत-फ्रांस की सितंबर 2026 की बातचीत में किस क्षेत्र में सहयोग बढ़ाने पर चर्चा हुई?",
+      "options": [
+        "अंतरिक्ष",
+        "कृषि निर्यात",
+        "खेल प्रशिक्षण",
+        "डाक सेवाएँ"
+      ],
+      "correct_option_id": 0,
+      "explanation": [
+        "भारत और फ्रांस ने human spaceflight, advanced space technologies और space-industry cooperation पर चर्चा की।",
+        "भारत Paris में International Space Summit में भाग लेगा और France Bengaluru Space Expo में भाग लेगा।"
+      ],
+      "exam_focus_facts": [
+        "बैठक — 4 सितंबर 2026",
+        "चर्चा — human spaceflight और advanced space technologies",
+        "भागीदारी — International Space Summit और Bengaluru Space Expo"
+      ],
+      "related_facts": [
+        "International Space Summit — Paris, 9–10 सितंबर 2026",
+        "Bengaluru Space Expo — 7–9 सितंबर 2026",
+        "ISRO और France की CNES के बीच लगभग छह दशक का cooperation"
+      ],
+      "source": "Department of Space statement via SocialNews",
+      "source_type": "Official + Tier-2",
+      "confidence": "MEDIUM",
+      "importance": 4,
+      "news_age": "1 Day",
+      "highlights": [
+        "भारत और फ्रांस",
+        "human spaceflight",
+        "advanced space technologies",
+        "International Space Summit",
+        "Bengaluru Space Expo",
+        "4 सितंबर 2026",
+        "Paris, 9–10 सितंबर 2026",
+        "7–9 सितंबर 2026",
+        "ISRO",
+        "CNES",
+        "space-industry cooperation"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/4.png",
+      "explanation_image_label": "",
+      "source_url": "https://www.socialnews.xyz/2026/09/04/india-france-cement-space-ties-with-focus-on-human-flight-industry-cooperation/"
+    },
+    {
+      "question_number": "Q5",
+      "date": "05 September 2026",
+      "category": "रक्षा प्रौद्योगिकी",
+      "question_text": "भारतीय वायुसेना ने किस स्वदेशी Long Range Glide Bomb का सफल drop trial किया?",
+      "options": [
+        "Gaurav-500",
+        "Astra-2",
+        "Khagantak-243",
+        "Rudra-1"
+      ],
+      "correct_option_id": 2,
+      "explanation": [
+        "भारतीय वायुसेना ने स्वदेशी Khagantak-243 Long Range Glide Bomb का successful drop trial किया।",
+        "यह development trial है; इससे weapon के operational service में शामिल होने की पुष्टि नहीं होती।"
+      ],
+      "exam_focus_facts": [
+        "Khagantak-243 — indigenous Long Range Glide Bomb",
+        "trial — IAF ने drop test किया और objectives पूरे हुए",
+        "development status — operational induction अभी confirmed नहीं"
+      ],
+      "related_facts": [
+        "developer — JSR Dynamics",
+        "guidance और electronics में BEL की भूमिका reported है",
+        "reported design — लगभग 300 kg class और 140 km से अधिक range"
+      ],
+      "source": "IAF post reported by Rediff",
+      "source_type": "Official + Tier-2",
+      "confidence": "HIGH",
+      "importance": 5,
+      "news_age": "3 Day",
+      "highlights": [
+        "भारतीय वायुसेना",
+        "Khagantak-243",
+        "Long Range Glide Bomb",
+        "successful drop trial",
+        "development trial",
+        "operational service",
+        "JSR Dynamics",
+        "BEL",
+        "300 kg class",
+        "140 km से अधिक range"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/5.png",
+      "explanation_image_label": "",
+      "source_url": "https://www.rediff.com/news/commentary/2026/sep/02/iaf-tests-indigenous-longrange-glide-bomb-khagantak243/13e83600dab8888ca0ce61798751bf96"
+    },
+    {
+      "question_number": "Q6",
+      "date": "05 September 2026",
+      "category": "राज्य विधायिका और सामाजिक न्याय",
+      "question_text": "गोवा विधानसभा ने किस कानून से ‘कुष्ठ रोग’ के संदर्भ हटाने वाला विधेयक पारित किया?",
+      "options": [
+        "Goa Prisons Act, 2026",
+        "Goa Children’s Act, 2003",
+        "Goa Health Services Act",
+        "Goa Education Act"
+      ],
+      "correct_option_id": 1,
+      "explanation": [
+        "Goa Children’s (Amendment) Bill, 2026 ने Goa Children’s Act, 2003 से leprosy references हटाने का प्रस्ताव किया।",
+        "इसका उद्देश्य leprosy से प्रभावित लोगों के प्रति social stigma और discrimination कम करना है।"
+      ],
+      "exam_focus_facts": [
+        "Bill — Goa Children’s (Amendment) Bill, 2026",
+        "principal Act — Goa Children’s Act, 2003",
+        "references — Section 2 और Section 5 से leprosy शब्द हटाने का प्रस्ताव"
+      ],
+      "related_facts": [
+        "Bill Governor की assent के बाद लागू होगा",
+        "Supreme Court order — 7 मई 2025",
+        "विधेयक voice vote से पारित हुआ"
+      ],
+      "source": "The Hindu / PTI",
+      "source_type": "Tier-2",
+      "confidence": "HIGH",
+      "importance": 4,
+      "news_age": "3 Day",
+      "highlights": [
+        "Goa Children’s (Amendment) Bill, 2026",
+        "Goa Children’s Act, 2003",
+        "leprosy references",
+        "social stigma",
+        "discrimination",
+        "Section 2",
+        "Section 5",
+        "Governor की assent",
+        "Supreme Court order",
+        "7 मई 2025",
+        "voice vote"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/6.png",
+      "explanation_image_label": "",
+      "source_url": "https://www.thehindu.com/news/national/goa/goa-assembly-passes-bill-to-drop-leprosy-references-from-child-law-to-curb-stigma/article71418822.ece"
+    },
+    {
+      "question_number": "Q7",
+      "date": "05 September 2026",
+      "category": "खेल और शतरंज",
+      "question_text": "Elena Mishra ने किस संस्था की official rating list में स्थान बनाया?",
+      "options": [
+        "FIFA",
+        "ICC",
+        "BWF",
+        "FIDE"
+      ],
+      "correct_option_id": 3,
+      "explanation": [
+        "Elena Mishra ने September 2026 की FIDE rating list में official Blitz rating हासिल की।",
+        "वह 4 वर्ष, 6 महीने और 16 दिन की उम्र में official FIDE rating पाने वाली सबसे कम उम्र की महिला खिलाड़ी बनीं।"
+      ],
+      "exam_focus_facts": [
+        "Elena Mishra — Odisha की chess player",
+        "FIDE Blitz rating — 1432",
+        "उम्र — 4 वर्ष, 6 महीने और 16 दिन"
+      ],
+      "related_facts": [
+        "FIDE — International Chess Federation",
+        "प्रतियोगिता — Odisha State Blitz FIDE Rating Open Chess Championship 2026",
+        "वह 2022 या उसके बाद जन्मी female players में official rating वाली एकमात्र खिलाड़ी reported हैं"
+      ],
+      "source": "Organiser / Odisha Sports",
+      "source_type": "Tier-2",
+      "confidence": "MEDIUM",
+      "importance": 4,
+      "news_age": "2 Day",
+      "highlights": [
+        "Elena Mishra",
+        "September 2026",
+        "FIDE rating list",
+        "official Blitz rating",
+        "4 वर्ष, 6 महीने और 16 दिन",
+        "सबसे कम उम्र की महिला खिलाड़ी",
+        "1432",
+        "FIDE — International Chess Federation",
+        "Odisha State Blitz FIDE Rating Open Chess Championship 2026",
+        "2022 या उसके बाद जन्मी"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/7.png",
+      "explanation_image_label": "",
+      "source_url": "https://organiser.org/2026/09/03/378552/bharat/4-year-old-odisha-girl-elena-mishra-becomes-youngest-female-player-to-hold-official-fide-rating/"
+    },
+    {
+      "question_number": "Q8",
+      "date": "05 September 2026",
+      "category": "पर्यावरण और वन्यजीव",
+      "question_text": "2–3 सितंबर 2026 की International Tiger Landscapes Workshop नई दिल्ली में किन संस्थाओं ने संयुक्त रूप से आयोजित की?",
+      "options": [
+        "IBCA, ADB और NTCA",
+        "UNEP, WHO और FAO",
+        "WWF, UNESCO और IUCN",
+        "MoEFCC, ISRO और NITI Aayog"
+      ],
+      "correct_option_id": 0,
+      "explanation": [
+        "नई दिल्ली में 2–3 सितंबर 2026 को Tiger Landscapes workshop आयोजित की गई।",
+        "कार्यशाला में conservation को bioeconomy, ecotourism और local livelihood generation से जोड़ने पर चर्चा हुई।"
+      ],
+      "exam_focus_facts": [
+        "आयोजक — IBCA, ADB और NTCA",
+        "theme — Tiger Landscapes: Conservation, Bioeconomy and Ecotourism as Pillars for Livelihood and Income Generation",
+        "मुख्य outcome — IBCA और ADB का MoU"
+      ],
+      "related_facts": [
+        "IBCA — International Big Cat Alliance",
+        "MoU focus — landscape conservation और nature-positive financing",
+        "IBCA सात big cat species के संरक्षण के लिए international platform है"
+      ],
+      "source": "PIB release reported by Odisha Diary",
+      "source_type": "Official + Tier-2",
+      "confidence": "HIGH",
+      "importance": 4,
+      "news_age": "3 Day",
+      "highlights": [
+        "Tiger Landscapes workshop",
+        "2–3 सितंबर 2026",
+        "IBCA",
+        "ADB",
+        "NTCA",
+        "conservation",
+        "bioeconomy",
+        "ecotourism",
+        "local livelihood generation",
+        "IBCA और ADB का MoU",
+        "सात big cat species",
+        "nature-positive financing"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/8.png",
+      "explanation_image_label": "",
+      "source_url": "https://orissadiary.com/union-environment-minister-inaugurates-international-workshop-themed-tiger-landscapes-conservation-bioeconomy-and-ecotourism-for-livelihood-and-income-generation-in-new-delhi/"
+    },
+    {
+      "question_number": "Q9",
+      "date": "05 September 2026",
+      "category": "विज्ञान शिक्षा और उपलब्धियाँ",
+      "question_text": "19वें IESO 2026 में भारतीय छात्र दल के प्रदर्शन पर 4 सितंबर को किस केंद्रीय मंत्री ने उन्हें सम्मानित किया?",
+      "options": [
+        "धर्मेंद्र प्रधान",
+        "अश्विनी वैष्णव",
+        "डॉ. जितेंद्र सिंह",
+        "मनसुख मांडविया"
+      ],
+      "correct_option_id": 2,
+      "explanation": [
+        "भारत ने 19वें IESO 2026 में 4 gold, 3 silver और 2 bronze सहित कुल 9 medals जीते।",
+        "4 सितंबर को डॉ. जितेंद्र सिंह ने भारतीय student team को इस best-ever performance के लिए सम्मानित किया।"
+      ],
+      "exam_focus_facts": [
+        "IESO 2026 — 19वाँ edition",
+        "भारत का medal tally — 4 gold, 3 silver और 2 bronze",
+        "कुल — 9 medals, भारत का best-ever performance"
+      ],
+      "related_facts": [
+        "venue — Turin, Italy",
+        "competition dates — 20–27 अगस्त 2026",
+        "selection process — लगभग 17,800 students और 500 centres"
+      ],
+      "source": "EducationTimes / PIB photo report",
+      "source_type": "Tier-2",
+      "confidence": "MEDIUM",
+      "importance": 4,
+      "news_age": "1 Day",
+      "highlights": [
+        "19वें IESO 2026",
+        "4 gold",
+        "3 silver",
+        "2 bronze",
+        "कुल 9 medals",
+        "best-ever performance",
+        "डॉ. जितेंद्र सिंह",
+        "Turin, Italy",
+        "20–27 अगस्त 2026",
+        "17,800 students",
+        "500 centres"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/9.png",
+      "explanation_image_label": "",
+      "source_url": "https://www.educationtimes.com/article/newsroom/99742736/team-india-shines-bright-with-9-medals-at-19th-international-earth-science-olympiad-2026"
+    },
+    {
+      "question_number": "Q10",
+      "date": "05 September 2026",
+      "category": "पर्यावरण और राजमार्ग",
+      "question_text": "NHAI Green Highways Excellence Awards 2026 में Avenue Plantations category का पहला पुरस्कार किस project को मिला?",
+      "options": [
+        "Hyderabad–Yadgiri section of NH 163",
+        "Chilakaluripet Bypass on NH 16",
+        "Jamtha Clover Leaf Oxygen Bird Park",
+        "Vadodara–Kim Expressway"
+      ],
+      "correct_option_id": 1,
+      "explanation": [
+        "NHAI ने 3 सितंबर 2026 को Green Highways Excellence Awards 2026 के winners घोषित किए।",
+        "Avenue Plantations category में NH-16 का Chilakaluripet Bypass project first रहा, जबकि awards तीन plantation categories में दिए गए।"
+      ],
+      "exam_focus_facts": [
+        "awards — Green Highways Excellence Awards 2026",
+        "Avenue Plantations first — Chilakaluripet Bypass on NH 16",
+        "तीन categories — Avenue, Median और Plantation in Land Parcels"
+      ],
+      "related_facts": [
+        "Median Plantations first — Hyderabad–Yadgiri section of NH 163",
+        "Land Parcels first — Jamtha Clover Leaf, Oxygen Bird Park on NH-44",
+        "NHAI को 86 nominations प्राप्त हुईं"
+      ],
+      "source": "PIB Press Release",
+      "source_type": "Official",
+      "confidence": "HIGH",
+      "importance": 5,
+      "news_age": "2 Day",
+      "highlights": [
+        "NHAI",
+        "3 सितंबर 2026",
+        "Green Highways Excellence Awards 2026",
+        "Avenue Plantations",
+        "Chilakaluripet Bypass",
+        "NH 16",
+        "Median Plantations",
+        "Hyderabad–Yadgiri section",
+        "NH 163",
+        "Jamtha Clover Leaf",
+        "Oxygen Bird Park",
+        "86 nominations"
+      ],
+      "font_size_scale": 1.15,
+      "explanation_image_url": "images/10.png",
+      "explanation_image_label": "",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2306409&reg=48&lang=2"
+    }
+  ],
+  "oneliner": [
+    "रक्षा मंत्री राजनाथ सिंह द्वारा 3 सितंबर 2026 को जारी ‘RAKSHA’ दस्तावेज किस क्षेत्र का 10-वर्षीय रोडमैप है?",
+    "भारत-बेल्जियम रक्षा औद्योगिक सहयोग के अंतर्गत कितने agreements पर हस्ताक्षर किए गए?",
+    "NIELIT और Intel India ने कौन-से Agentic AI programmes शुरू किए?",
+    "भारत-फ्रांस की सितंबर 2026 की बातचीत में किस क्षेत्र में सहयोग बढ़ाने पर चर्चा हुई?",
+    "भारतीय वायुसेना ने किस स्वदेशी Long Range Glide Bomb का सफल drop trial किया?",
+    "गोवा विधानसभा ने किस कानून से ‘कुष्ठ रोग’ के संदर्भ हटाने वाला विधेयक पारित किया?",
+    "Elena Mishra ने किस संस्था की official rating list में स्थान बनाया?",
+    "2–3 सितंबर 2026 की International Tiger Landscapes Workshop नई दिल्ली में किन संस्थाओं ने संयुक्त रूप से आयोजित की?",
+    "19वें IESO 2026 में भारतीय छात्र दल के प्रदर्शन पर 4 सितंबर को किस केंद्रीय मंत्री ने उन्हें सम्मानित किया?",
+    "NHAI Green Highways Excellence Awards 2026 में Avenue Plantations category का पहला पुरस्कार किस project को मिला?"
+  ]
+}
