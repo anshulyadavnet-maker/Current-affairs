@@ -1,0 +1,432 @@
+[
+  {
+    "question_number": "Q1",
+    "date": "18 September 2026",
+    "category": "International Indices",
+    "question_text": "Global Gender Gap Index 2026 में भारत का स्थान और लैंगिक समानता score क्रमशः क्या रहा?",
+    "options": [
+      "131वां — 64.5%",
+      "127वां — 67.2%",
+      "135वां — 62.8%",
+      "121वां — 69.5%"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "WEF के Global Gender Gap Index 2026 में भारत 145 देशों में 131वें स्थान पर रहा।",
+      "भारत का overall gender parity score 64.5% रहा और Iceland top पर रहा।"
+    ],
+    "exam_focus_facts": [
+      "भारत की rank — 131वीं",
+      "भारत का score — 64.5%",
+      "Top country — Iceland"
+    ],
+    "related_facts": [
+      "Index की शुरुआत 2006 में हुई थी।",
+      "2026 edition इसकी 20वीं edition है।",
+      "भारत का Political Empowerment subindex rank 67वां रहा।"
+    ],
+    "highlights": [
+      "Global Gender Gap Index 2026",
+      "131वां",
+      "64.5%",
+      "145 देशों",
+      "Iceland"
+    ],
+    "source": "World Economic Forum / PTI",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/1.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.deccanherald.com/india/indias-rank-on-global-gender-gap-index-unchanged-at-131-iceland-retains-top-spot-4147941"
+  },
+  {
+    "question_number": "Q2",
+    "date": "18 September 2026",
+    "category": "Awards & Honours",
+    "question_text": "Dadasaheb Phalke Award 2024 के लिए किस veteran actor को चुना गया है?",
+    "options": [
+      "नसीरुद्दीन शाह",
+      "अनंत नाग",
+      "मिथुन चक्रवर्ती",
+      "कमल हासन"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Veteran multilingual actor Anant Nag को Dadasaheb Phalke Award 2024 के लिए चुना गया है।",
+      "यह honour Indian cinema में उनके पांच दशक से अधिक लंबे योगदान के लिए दिया जाएगा।"
+    ],
+    "exam_focus_facts": [
+      "Dadasaheb Phalke Award 2024 — Anant Nag",
+      "क्षेत्र — Indian cinema",
+      "स्थापना — 1969"
+    ],
+    "related_facts": [
+      "यह भारत का highest cinematic honour है।",
+      "Award 22 सितंबर 2026 को 72वें National Film Awards समारोह में दिया जाएगा।",
+      "Anant Nag ने Kannada, Hindi और अन्य भाषाओं की फिल्मों में काम किया है।"
+    ],
+    "highlights": [
+      "Dadasaheb Phalke Award 2024",
+      "Anant Nag",
+      "Indian cinema",
+      "पांच दशक",
+      "72वें National Film Awards"
+    ],
+    "source": "PIB / Ministry of Information and Broadcasting",
+    "source_type": "Official",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/2.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.deccanherald.com/entertainment/actor-anant-nag-honoured-with-dadasaheb-phalke-award-2024-for-contribution-to-indian-cinema-4148234"
+  },
+  {
+    "question_number": "Q3",
+    "date": "18 September 2026",
+    "category": "Science & Technology",
+    "question_text": "SEMICON India 2026 का central theme क्या है?",
+    "options": [
+      "Digital India to Silicon India",
+      "Semiconductors for a Digital Future",
+      "Silicon to Systems: Building the Ecosystem",
+      "India Semiconductor Vision 2030"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "SEMICON India 2026 का theme ‘Silicon to Systems: Building the Ecosystem’ है।",
+      "यह fifth edition India के semiconductor और electronics ecosystem को मजबूत करने पर केंद्रित है।"
+    ],
+    "exam_focus_facts": [
+      "SEMICON India 2026 — 5th edition",
+      "Theme — Silicon to Systems: Building the Ecosystem",
+      "Venue — Yashobhoomi, New Delhi"
+    ],
+    "related_facts": [
+      "आयोजन 17 से 19 सितंबर 2026 तक हो रहा है।",
+      "इसे ISM और SEMI ने jointly organise किया है।",
+      "ISM का full form India Semiconductor Mission है।"
+    ],
+    "highlights": [
+      "SEMICON India 2026",
+      "Silicon to Systems",
+      "Building the Ecosystem",
+      "5th edition",
+      "Yashobhoomi"
+    ],
+    "source": "PM India / ISM / MeitY / SEMI",
+    "source_type": "Official",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/3.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.pmindia.gov.in/en/news_updates/pm-to-inaugurate-semicon-india-2026-on-17-september-in-new-delhi/?comment=disable"
+  },
+  {
+    "question_number": "Q4",
+    "date": "18 September 2026",
+    "category": "State Policies",
+    "question_text": "कर्नाटक सरकार ने eligible engineers को अपने नाम के आगे किस prefix के उपयोग की अनुमति दी है?",
+    "options": [
+      "Eng.",
+      "Er.",
+      "Engr.",
+      "Tech."
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Karnataka government ने eligible engineers को अपने नाम के आगे ‘Er.’ prefix लगाने की अनुमति दी है।",
+      "राज्य ने 15 सितंबर को Engineers’ Day के official observance के रूप में भी मान्यता दी है।"
+    ],
+    "exam_focus_facts": [
+      "Engineers के लिए prefix — Er.",
+      "State — Karnataka",
+      "संबंधित personality — Sir M. Visvesvaraya"
+    ],
+    "related_facts": [
+      "Sir M. Visvesvaraya को 1955 में Bharat Ratna मिला था।",
+      "Karnataka teachers को ‘Tr.’ prefix की अनुमति पहले दी गई थी।",
+      "Engineers’ Day भारत में 15 सितंबर को मनाया जाता है।"
+    ],
+    "highlights": [
+      "Karnataka government",
+      "eligible engineers",
+      "Er.",
+      "Engineers’ Day",
+      "Sir M. Visvesvaraya"
+    ],
+    "source": "Government of Karnataka / The Hindu",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "3 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/4.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindu.com/news/national/karnataka/engineers-day-to-be-state-event-govt-allows-prefix-er-to-names/article71468580.ece"
+  },
+  {
+    "question_number": "Q5",
+    "date": "18 September 2026",
+    "category": "Defence & Security",
+    "question_text": "‘एक्सरसाइज युद्ध अभ्यास 2026’ में पहली बार किन अत्याधुनिक तकनीकों के उपयोग पर विशेष ध्यान दिया जा रहा है?",
+    "options": [
+      "रोबोटिक डॉग और काउंटर-ड्रोन सिस्टम",
+      "पनडुब्बी और टॉरपीडो सिस्टम",
+      "सैटेलाइट और मिसाइल डिफेंस सिस्टम",
+      "नौसैनिक ड्रोन और सोनार सिस्टम"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "युद्ध अभ्यास 2026 में रोबोटिक डॉग और काउंटर-ड्रोन सिस्टम जैसी आधुनिक तकनीकों का उपयोग किया जा रहा है।",
+      "यह India-US armies के annual joint military exercise का 22वां edition है।"
+    ],
+    "exam_focus_facts": [
+      "Exercise — Yudh Abhyas 2026",
+      "Countries — India और US",
+      "Focus — रोबोटिक डॉग और काउंटर-ड्रोन सिस्टम"
+    ],
+    "related_facts": [
+      "Exercise Auli, Uttarakhand और Mahajan Field Firing Range, Rajasthan में हो रहा है।",
+      "इसमें लगभग 600 personnel प्रत्येक army से भाग ले रहे हैं।",
+      "इसका 22वां संस्करण 9 सितंबर से 28 सितंबर 2026 तक आयोजित किया जा रहा है।"
+    ],
+    "highlights": [
+      "Yudh Abhyas 2026",
+      "रोबोटिक डॉग",
+      "काउंटर-ड्रोन सिस्टम",
+      "India-US armies",
+      "22वां edition"
+    ],
+    "source": "Indian Army / Ministry of Defence",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "3 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/5.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindu.com/news/national/india-us-armies-begin-yudh-abhyas-with-focus-on-technology-interoperability/article71469165.ece"
+  },
+  {
+    "question_number": "Q6",
+    "date": "18 September 2026",
+    "category": "Social Security",
+    "question_text": "EPFO के mandatory social-security coverage के लिए monthly wage ceiling बढ़ाकर कितनी कर दी गई है?",
+    "options": [
+      "₹20,000",
+      "₹22,000",
+      "₹25,000",
+      "₹30,000"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "Union Cabinet ने mandatory EPFO coverage के लिए monthly wage ceiling ₹15,000 से बढ़ाकर ₹25,000 कर दी है।",
+      "यह बदलाव 17 सितंबर 2026 से लागू होकर 51 लाख से अधिक additional employees को cover करेगा।"
+    ],
+    "exam_focus_facts": [
+      "New wage ceiling — ₹25,000 per month",
+      "Old ceiling — ₹15,000",
+      "Additional beneficiaries — 51 लाख से अधिक"
+    ],
+    "related_facts": [
+      "EPFO Employees’ Provident Fund Organisation है।",
+      "Previous revision सितंबर 2014 में हुआ था।",
+      "Coverage से EPF, pension और insurance benefits तक access बढ़ेगा।"
+    ],
+    "highlights": [
+      "EPFO",
+      "mandatory social-security coverage",
+      "₹25,000",
+      "₹15,000",
+      "51 लाख से अधिक"
+    ],
+    "source": "Union Cabinet / PIB",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/6.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.moneycontrol.com/news/business/economy/cabinet-approves-epf-ceiling-hike-to-rs-25-000-from-rs-15-000-14031188.html"
+  },
+  {
+    "question_number": "Q7",
+    "date": "18 September 2026",
+    "category": "Infrastructure",
+    "question_text": "Kishau Multipurpose Project के तहत किस river पर 232.6 metre ऊंचा concrete gravity dam बनाया जाएगा?",
+    "options": [
+      "यमुना नदी",
+      "Tons River",
+      "सतलुज नदी",
+      "गंगा नदी"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Kishau Multipurpose Project के तहत Tons River पर 232.6 metre ऊंचा concrete gravity dam बनाया जाएगा।",
+      "परियोजना की hydropower capacity 422 MW बताई गई है।"
+    ],
+    "exam_focus_facts": [
+      "River — Tons",
+      "Dam height — 232.6 metre",
+      "Power capacity — 422 MW"
+    ],
+    "related_facts": [
+      "Tons River Yamuna की major tributary है।",
+      "Centre और छह states/UT के बीच project agreement हुआ है।",
+      "Project Uttarakhand-Himachal Pradesh border के पास प्रस्तावित है।"
+    ],
+    "highlights": [
+      "Kishau Multipurpose Project",
+      "Tons River",
+      "232.6 metre",
+      "concrete gravity dam",
+      "422 MW"
+    ],
+    "source": "Government of India / The Hindu",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "3 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/7.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/six-states-ut-sign-kishau-multipurpose-project-agreement-cm-sukhu-hails-major-victory-for-himachal/article71468268.ece"
+  },
+  {
+    "question_number": "Q8",
+    "date": "18 September 2026",
+    "category": "International Relations & Biodiversity",
+    "question_text": "Western Ghats में खोजी गई नई legless amphibian species का नाम क्या रखा गया है?",
+    "options": [
+      "Gegeneophis chandgadi",
+      "Gegeneophis sahyadri",
+      "Ichthyophis maharashtra",
+      "Uraeotyphlus westernghati"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "Maharashtra के Kolhapur region में खोजी गई नई subterranean legless amphibian species का नाम Gegeneophis chandgadi रखा गया है।",
+      "इसका नाम स्थानीय Chandgadi dialect के सम्मान में रखा गया है।"
+    ],
+    "exam_focus_facts": [
+      "New species — Gegeneophis chandgadi",
+      "Location — Kolhapur, Maharashtra",
+      "Region — Northern Western Ghats"
+    ],
+    "related_facts": [
+      "यह caecilian नामक burrowing amphibian है।",
+      "यह Buzawade, Chandgad के human-inhabited landscape में मिली।",
+      "प्रजाति का formal description Records of the Zoological Survey of India में प्रकाशित हुआ।"
+    ],
+    "highlights": [
+      "Gegeneophis chandgadi",
+      "legless amphibian",
+      "Kolhapur",
+      "Western Ghats",
+      "Chandgadi dialect"
+    ],
+    "source": "Zoological Survey of India research / The Hindu",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "6 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/8.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindu.com/sci-tech/science/new-species-of-legless-amphibian-discovered-from-maharashrtra/article71459475.ece"
+  },
+  {
+    "question_number": "Q9",
+    "date": "18 September 2026",
+    "category": "Defence & Appointments",
+    "question_text": "President की Aide-de-Camp (ADC) बनने वाली Indian Army की पहली महिला officer कौन बनी हैं?",
+    "options": [
+      "Major Navya Shekhawat",
+      "Lieutenant Commander Yashasvi Solanki",
+      "Major Rishabh Singh Samyal",
+      "Sanjukta Parashar"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "Major Navya Shekhawat President की ADC बनने वाली Indian Army की पहली महिला officer बनी हैं।",
+      "वह overall President की ADC बनने वाली दूसरी woman military officer हैं; पहली woman overall Lieutenant Commander Yashasvi Solanki थीं।"
+    ],
+    "exam_focus_facts": [
+      "First woman Army ADC — Major Navya Shekhawat",
+      "First woman military ADC — Lieutenant Commander Yashasvi Solanki",
+      "Major Navya — Army Service Corps"
+    ],
+    "related_facts": [
+      "Yashasvi Solanki मई 2025 में पहली woman military ADC बनी थीं।",
+      "Major Navya को 2021 में Army Service Corps में commission किया गया था।",
+      "ADC President के official engagements में सहायता करने वाला military appointment है।"
+    ],
+    "highlights": [
+      "Major Navya Shekhawat",
+      "Indian Army",
+      "पहली महिला officer",
+      "Aide-de-Camp",
+      "Army Service Corps"
+    ],
+    "source": "Indian Army reports / Indian Masterminds",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "9 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/9.png",
+    "explanation_image_label": "",
+    "source_url": "https://indianmasterminds.com/news/defence/major-navya-shekhawat-first-indian-army-woman-presidents-adc-218420/"
+  },
+  {
+    "question_number": "Q10",
+    "date": "18 September 2026",
+    "category": "Sports",
+    "question_text": "US Open 2026 men’s singles final में Alexander Zverev ने किस player को हराकर title जीता?",
+    "options": [
+      "Carlos Alcaraz",
+      "Ben Shelton",
+      "Novak Djokovic",
+      "Jannik Sinner"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Alexander Zverev ने US Open 2026 men’s singles final में America के Ben Shelton को हराया।",
+      "उन्होंने 6-3, 7-6 (7-2), 5-7, 6-2 से जीतकर 2026 का अपना दूसरा Grand Slam title जीता।"
+    ],
+    "exam_focus_facts": [
+      "US Open 2026 men’s winner — Alexander Zverev",
+      "Final opponent — Ben Shelton",
+      "Country — Germany"
+    ],
+    "related_facts": [
+      "Zverev ने 2026 French Open भी जीता था।",
+      "यह उनका पहला US Open title है।",
+      "Ben Shelton का यह पहला Grand Slam singles final था।"
+    ],
+    "highlights": [
+      "US Open 2026",
+      "Alexander Zverev",
+      "Ben Shelton",
+      "6-3, 7-6 (7-2), 5-7, 6-2",
+      "दूसरा Grand Slam title"
+    ],
+    "source": "US Open / ESPN / BBC Sport",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "5 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/10.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.espn.com/tennis/story/_/id/49933388/alexander-zverev-beats-ben-shelton-4-sets-win-2026-us-open"
+  }
+]

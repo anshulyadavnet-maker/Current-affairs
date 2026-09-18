@@ -1,0 +1,492 @@
+[
+  {
+    "question_number": "Q1",
+    "date": "12 September 2026",
+    "category": "अंतरराष्ट्रीय संगठन",
+    "question_text": "18वाँ BRICS शिखर सम्मेलन 2026 कहाँ आयोजित किया जा रहा है?",
+    "options": [
+      "मुंबई",
+      "नई दिल्ली",
+      "बेंगलुरु",
+      "हैदराबाद"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "18वाँ BRICS शिखर सम्मेलन नई दिल्ली के भारत मंडपम में 12–13 सितंबर 2026 को आयोजित हो रहा है।",
+      "भारत 2026 में BRICS की अध्यक्षता कर रहा है और सम्मेलन की theme Building for Resilience, Innovation, Cooperation and Sustainability है।"
+    ],
+    "exam_focus_facts": [
+      "18वाँ BRICS शिखर सम्मेलन",
+      "स्थान — भारत मंडपम, नई दिल्ली",
+      "अध्यक्षता — भारत",
+      "Theme — Building for Resilience, Innovation, Cooperation and Sustainability"
+    ],
+    "related_facts": [
+      "यह भारत की चौथी BRICS अध्यक्षता है।",
+      "प्रधानमंत्री नरेंद्र मोदी summit proceedings की अध्यक्षता करेंगे।",
+      "BRICS में 2026 में 11 full members का expanded grouping है।"
+    ],
+    "highlights": [
+      "18वाँ BRICS शिखर सम्मेलन",
+      "BRICS",
+      "भारत",
+      "नई दिल्ली",
+      "भारत मंडपम",
+      "12–13 सितंबर 2026",
+      "चौथी BRICS अध्यक्षता",
+      "Building for Resilience, Innovation, Cooperation and Sustainability",
+      "नरेंद्र मोदी"
+    ],
+    "source": "MEA / BRICS India 2026",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "0 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/1.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.eoiriyadh.gov.in/section/news/18th-brics-summit-12-13-september-new-delhi/"
+  },
+  {
+    "question_number": "Q2",
+    "date": "12 September 2026",
+    "category": "डिजिटल भुगतान",
+    "question_text": "NPCI ने Global Fintech Fest 2026 में कौन-से नए UPI features launch किए?",
+    "options": [
+      "UPI Tap & Pay और AI-Powered My UPI",
+      "UPI Scan & Go और My Bank AI",
+      "UPI Voice Pay और Digi UPI",
+      "UPI Smart Pay और Bharat AI"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "NPCI ने Global Fintech Fest 2026 में UPI Tap & Pay और AI-powered My UPI platform launch किए।",
+      "UPI Tap & Pay NFC-enabled point-of-sale terminals पर contactless payment देता है, जबकि My UPI UPI services को एक AI-powered platform में जोड़ता है।"
+    ],
+    "exam_focus_facts": [
+      "आयोजन — Global Fintech Fest 2026",
+      "संस्था — NPCI",
+      "नए features — UPI Tap & Pay और AI-powered My UPI",
+      "UPI Tap & Pay — NFC technology"
+    ],
+    "related_facts": [
+      "Tap & Pay में smartphone को compatible POS terminal पर tap किया जाता है।",
+      "My UPI NPCI के FiMI small language model पर आधारित है।",
+      "Tap & Pay में ₹5,000 तक PIN-less transaction limit बताई गई है।"
+    ],
+    "highlights": [
+      "NPCI",
+      "Global Fintech Fest 2026",
+      "UPI Tap & Pay",
+      "AI-powered My UPI",
+      "NFC",
+      "point-of-sale terminals",
+      "contactless payment",
+      "FiMI",
+      "₹5,000"
+    ],
+    "source": "NPCI / Global Fintech Fest reports",
+    "source_type": "Official + Tier-2",
+    "confidence": "MEDIUM",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/2.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.gktoday.in/npci-launches-upi-tap-pay-my-upi-platform/"
+  },
+  {
+    "question_number": "Q3",
+    "date": "12 September 2026",
+    "category": "भूमि रिकॉर्ड और डिजिटल गवर्नेंस",
+    "question_text": "DILRMP 3.0 के Operational Guidelines किसने जारी किए?",
+    "options": [
+      "केंद्रीय ग्रामीण विकास मंत्री",
+      "केंद्रीय कृषि मंत्री",
+      "केंद्रीय गृह मंत्री",
+      "केंद्रीय वित्त मंत्री"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "केंद्रीय ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने DILRMP 3.0 के Operational Guidelines जारी किए।",
+      "कार्यक्रम का उद्देश्य land records को integrated, GIS-based और अधिक पारदर्शी digital system में बदलना है।"
+    ],
+    "exam_focus_facts": [
+      "कार्यक्रम — DILRMP 3.0",
+      "पूरा नाम — Digital India Land Records Modernisation Programme",
+      "जारीकर्ता — शिवराज सिंह चौहान",
+      "लक्ष्य — integrated digital land records"
+    ],
+    "related_facts": [
+      "DILRMP 3.0 का approved outlay ₹565.50 करोड़ है।",
+      "हर land parcel के लिए 14-digit Bhu-Aadhaar या ULPIN प्रस्तावित है।",
+      "कार्यक्रम सभी States और Union Territories में 100% central funding के साथ लागू होगा।"
+    ],
+    "highlights": [
+      "DILRMP 3.0",
+      "Operational Guidelines",
+      "शिवराज सिंह चौहान",
+      "Digital India Land Records Modernisation Programme",
+      "GIS-based",
+      "land records",
+      "₹565.50 करोड़",
+      "Bhu-Aadhaar",
+      "ULPIN",
+      "100% central funding"
+    ],
+    "source": "Department of Land Resources / NewsonAir",
+    "source_type": "Official",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/3.png",
+    "explanation_image_label": "",
+    "source_url": "https://dolr.gov.in/en/document-category/program-dilrmp/"
+  },
+  {
+    "question_number": "Q4",
+    "date": "12 September 2026",
+    "category": "विज्ञान और प्रौद्योगिकी",
+    "question_text": "Emerging Science, Technology and Innovation Conclave (ESTIC) 2026 का आयोजन कब किया जाएगा?",
+    "options": [
+      "27–29 अक्टूबर 2026",
+      "10–12 सितंबर 2026",
+      "15–17 नवंबर 2026",
+      "1–3 दिसंबर 2026"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "ESTIC 2026 का आयोजन 27 से 29 अक्टूबर 2026 तक Bharat Mandapam, New Delhi में किया जाएगा।",
+      "प्रधानमंत्री नरेंद्र मोदी 27 अक्टूबर को conclave का उद्घाटन करेंगे और इसमें science, technology तथा deep-tech ecosystem से जुड़े विशेषज्ञ भाग लेंगे।"
+    ],
+    "exam_focus_facts": [
+      "सम्मेलन — ESTIC 2026",
+      "तारीख — 27–29 अक्टूबर 2026",
+      "स्थान — Bharat Mandapam, New Delhi",
+      "Theme — Creative Minds, Catalyzing Science, Empowering Technologies"
+    ],
+    "related_facts": [
+      "ESTIC का आयोजन CSIR और Office of the Principal Scientific Adviser के guidance में होगा।",
+      "AI, robotics, semiconductors, biotechnology और quantum communication प्रमुख विषय हैं।",
+      "तीन Nobel Laureates के भाग लेने की जानकारी दी गई है।"
+    ],
+    "highlights": [
+      "ESTIC 2026",
+      "27–29 अक्टूबर 2026",
+      "Bharat Mandapam",
+      "New Delhi",
+      "Creative Minds, Catalyzing Science, Empowering Technologies",
+      "AI",
+      "robotics",
+      "semiconductors",
+      "biotechnology",
+      "quantum communication"
+    ],
+    "source": "PIB / Office of Principal Scientific Adviser",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/4.png",
+    "explanation_image_label": "",
+    "source_url": "https://earthnews.in/estic-2026-to-be-held-from-oct-27-29-with-inauguration-by-pm-modi-dr-jitendra-singh/"
+  },
+  {
+    "question_number": "Q5",
+    "date": "12 September 2026",
+    "category": "रक्षा और नौसेना अभ्यास",
+    "question_text": "Samudra Laksamana 2026 भारत और किस देश के बीच द्विपक्षीय समुद्री अभ्यास है?",
+    "options": [
+      "इंडोनेशिया",
+      "मलेशिया",
+      "सिंगापुर",
+      "थाईलैंड"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Samudra Laksamana भारत और मलेशिया के बीच द्विपक्षीय समुद्री अभ्यास है।",
+      "इसके चौथे संस्करण में भारतीय नौसेना का INS Mysore मलेशिया के Lumut port पर शामिल हुआ और maritime cooperation पर जोर दिया गया।"
+    ],
+    "exam_focus_facts": [
+      "अभ्यास — Samudra Laksamana 2026",
+      "भाग लेने वाले देश — भारत और मलेशिया",
+      "स्थान — Lumut, Malaysia",
+      "भारतीय पोत — INS Mysore"
+    ],
+    "related_facts": [
+      "अभ्यास में Harbour Phase और Sea Phase शामिल हैं।",
+      "मुख्य उद्देश्य maritime security और naval interoperability है।",
+      "यह India–Malaysia defence cooperation और Act East engagement से जुड़ा है।"
+    ],
+    "highlights": [
+      "Samudra Laksamana 2026",
+      "भारत",
+      "मलेशिया",
+      "Lumut",
+      "INS Mysore",
+      "द्विपक्षीय समुद्री अभ्यास",
+      "Harbour Phase",
+      "Sea Phase",
+      "maritime security",
+      "interoperability"
+    ],
+    "source": "Indian Navy / PIB reports",
+    "source_type": "Official + Tier-2",
+    "confidence": "MEDIUM",
+    "importance": 4,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/5.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.bhaskarenglish.in/career/news/brics-2026-new-delhi-india-france-space-technology-cooperation-139001216.html"
+  },
+  {
+    "question_number": "Q6",
+    "date": "12 September 2026",
+    "category": "खेल",
+    "question_text": "श्री चरणी ने 50 T20I wickets का आंकड़ा कितने अंतरराष्ट्रीय matches में पूरा किया?",
+    "options": [
+      "28 matches",
+      "29 matches",
+      "30 matches",
+      "32 matches"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "श्री चरणी ने अपने 29वें T20I match में 50 wickets पूरे किए।",
+      "उन्होंने Women’s Asia Cup 2026 के Bangladesh के विरुद्ध semifinal में यह उपलब्धि हासिल करके Kuldeep Yadav का 30-match record पीछे छोड़ा।"
+    ],
+    "exam_focus_facts": [
+      "खिलाड़ी — Shree Charani",
+      "50 T20I wickets — 29 matches",
+      "प्रतिद्वंद्वी — Bangladesh",
+      "पूर्व भारतीय record — Kuldeep Yadav, 30 matches"
+    ],
+    "related_facts": [
+      "Shree Charani भारत की fastest 50 T20I wickets लेने वाली bowler बनीं।",
+      "Women’s Asia Cup semifinal Dubai में खेला गया।",
+      "China की Mengting Liu ने women’s T20I में 28 matches में milestone हासिल किया था।"
+    ],
+    "highlights": [
+      "श्री चरणी",
+      "Shree Charani",
+      "50 T20I wickets",
+      "29 matches",
+      "Women’s Asia Cup 2026",
+      "Bangladesh",
+      "semifinal",
+      "Kuldeep Yadav",
+      "30 matches",
+      "Mengting Liu",
+      "Dubai"
+    ],
+    "source": "India Today / News18",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/6.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.indiatoday.in/sports/cricket/story/shree-charani-fastest-indian-50-t20i-wickets-womens-asia-cup-2991960-2026-09-10"
+  },
+  {
+    "question_number": "Q7",
+    "date": "12 September 2026",
+    "category": "एथलेटिक्स",
+    "question_text": "निर्भय चौधरी ने hammer throw में कितनी दूरी का नया national record बनाया?",
+    "options": [
+      "68.35 मीटर",
+      "70.73 मीटर",
+      "71.02 मीटर",
+      "72.50 मीटर"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "निर्भय चौधरी ने Indian Athletics Final Series 2026 में men’s hammer throw का 71.02 मीटर national record बनाया।",
+      "उन्होंने 2016 में Neeraj Kumar द्वारा बनाए गए 70.73 मीटर record को पीछे छोड़ा।"
+    ],
+    "exam_focus_facts": [
+      "Athlete — Nirbhay Choudhary",
+      "National record — 71.02 metres",
+      "Event — men’s hammer throw",
+      "Previous record — 70.73 metres"
+    ],
+    "related_facts": [
+      "Record New Delhi के Jawaharlal Nehru Stadium में बना।",
+      "Nirbhay 71 metres पार करने वाले पहले भारतीय men’s hammer throw athlete बने।",
+      "Tanya Chaudhary ने women’s hammer throw में 68.35 metres का record बनाया।"
+    ],
+    "highlights": [
+      "निर्भय चौधरी",
+      "Nirbhay Choudhary",
+      "hammer throw",
+      "71.02 metres",
+      "national record",
+      "Indian Athletics Final Series 2026",
+      "70.73 metres",
+      "Neeraj Kumar",
+      "Jawaharlal Nehru Stadium",
+      "Tanya Chaudhary",
+      "68.35 metres"
+    ],
+    "source": "Olympics.com / Athletics Federation of India reports",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/7.png",
+    "explanation_image_label": "",
+    "source_url": "https://newsable.asianetnews.com/sports/nirbhay-tanya-shatter-national-records-at-indian-athletics-final-articleshow-pv7kph9"
+  },
+  {
+    "question_number": "Q8",
+    "date": "12 September 2026",
+    "category": "भारत-अमेरिका रक्षा सहयोग",
+    "question_text": "Yudh Abhyas 2026 भारत और किस देश के बीच joint military exercise है?",
+    "options": [
+      "फ्रांस",
+      "जापान",
+      "रूस",
+      "अमेरिका"
+    ],
+    "correct_option_id": 3,
+    "explanation": [
+      "Yudh Abhyas 2026 भारत और अमेरिका के बीच annual joint military exercise है।",
+      "22वाँ edition 9 से 28 सितंबर 2026 तक first-ever two-theatre format में Mahajan, Rajasthan और Auli, Uttarakhand में हो रहा है।"
+    ],
+    "exam_focus_facts": [
+      "Exercise — Yudh Abhyas 2026",
+      "देश — India और United States",
+      "संस्करण — 22वाँ",
+      "Format — two-theatre exercise"
+    ],
+    "related_facts": [
+      "Rajasthan phase Mahajan Field Firing Range में है।",
+      "Uttarakhand phase Auli में high-altitude training पर केंद्रित है।",
+      "इस edition में Apache helicopters और counter-drone capabilities शामिल हैं।"
+    ],
+    "highlights": [
+      "Yudh Abhyas 2026",
+      "United States",
+      "22वाँ",
+      "two-theatre format",
+      "Mahajan Field Firing Range",
+      "Auli",
+      "Apache helicopters",
+      "counter-drone",
+      "भारत और अमेरिका",
+      "9 से 28 सितंबर 2026"
+    ],
+    "source": "PIB / New Indian Express",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "3 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/8.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.newindianexpress.com/india/2026/Sep/11/as-xi-arrives-indias-military-engages-with-all-three-quad-partners"
+  },
+  {
+    "question_number": "Q9",
+    "date": "12 September 2026",
+    "category": "फिनटेक और आर्टिफिशियल इंटेलिजेंस",
+    "question_text": "NPCI ने GFF 2026 में कौन-से Agentic AI platforms launch किए?",
+    "options": [
+      "AiNxt और AtOM",
+      "My UPI और UPI Tap",
+      "DigiPay और Bharat AI",
+      "UPI AI और RuPay AI"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "NPCI ने Global Fintech Fest 2026 में AiNxt और AtOM नामक दो Agentic AI platforms launch किए।",
+      "AiNxt AI agents बनाने और deploy करने में मदद करता है, जबकि AtOM UPI ecosystem में integration, onboarding और certification workflows को automate करता है।"
+    ],
+    "exam_focus_facts": [
+      "Platforms — AiNxt और AtOM",
+      "Launch संस्था — NPCI",
+      "क्षेत्र — Agentic AI और digital payments",
+      "AtOM — Agentic Orchestration and Messaging"
+    ],
+    "related_facts": [
+      "AiNxt में Bring Your Own Model यानी BYOM capability है।",
+      "AiNxt suite में OS, Code, CLI और Enterprise products शामिल हैं।",
+      "AtOM UPI partners के integration, testing और certification processes को streamline करता है।"
+    ],
+    "highlights": [
+      "NPCI",
+      "GFF 2026",
+      "AiNxt",
+      "AtOM",
+      "Agentic AI",
+      "digital payments",
+      "BYOM",
+      "Agentic Orchestration and Messaging",
+      "UPI ecosystem",
+      "integration",
+      "certification"
+    ],
+    "source": "NPCI statement / Moneycontrol",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "3 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/9.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.moneycontrol.com/technology/npci-launches-agentic-ai-platforms-to-streamline-workflows-accelerate-innovation-for-upi-partners-article-14026440.html"
+  },
+  {
+    "question_number": "Q10",
+    "date": "12 September 2026",
+    "category": "अंतरराष्ट्रीय डिजिटल भुगतान",
+    "question_text": "NIPL ने Singapore में UPI का विस्तार करने के लिए किस company के साथ partnership की?",
+    "options": [
+      "GrabPay",
+      "FOMO Pay",
+      "PayNow",
+      "DBS Pay"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "NPCI International Payments Limited ने Singapore-based FOMO Pay के साथ partnership की है।",
+      "इस partnership से Indian travellers Singapore में participating merchants और Resorts World Sentosa पर UPI से payment कर सकेंगे।"
+    ],
+    "exam_focus_facts": [
+      "भारतीय संस्था — NIPL",
+      "साझेदार — FOMO Pay",
+      "देश — Singapore",
+      "पहला merchant partner — Resorts World Sentosa"
+    ],
+    "related_facts": [
+      "Indian visitors UPI apps से online attractions और experiences book कर सकते हैं।",
+      "भुगतान Indian Rupees में होगा और merchant settlement Singapore Dollars में मिलेगा।",
+      "NIPL NPCI की international arm है।"
+    ],
+    "highlights": [
+      "NIPL",
+      "NPCI International Payments Limited",
+      "FOMO Pay",
+      "Singapore",
+      "UPI",
+      "Resorts World Sentosa",
+      "Indian travellers",
+      "Indian Rupees",
+      "Singapore Dollars"
+    ],
+    "source": "NIPL / Moneycontrol",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "3 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/10.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.moneycontrol.com/technology/npci-international-partners-fomo-pay-to-expand-upi-acceptance-across-singapore-article-14026018.html"
+  }
+]

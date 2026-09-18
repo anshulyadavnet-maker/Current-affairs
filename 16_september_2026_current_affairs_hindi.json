@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": "Q1",
+    "date": "16 September 2026",
+    "category": "Agriculture",
+    "question_text": "‘विकसित कृषि संकल्प अभियान (VKSA)’ का मुख्य उद्देश्य क्या है?",
+    "options": [
+      "किसानों की आय को 2028 तक दोगुना करना",
+      "केवल जैविक खेती को बढ़ावा देना",
+      "ग्रामीण क्षेत्रों में नए कृषि विश्वविद्यालय स्थापित करना",
+      "कृषि उत्पादों के निर्यात को दोगुना करना"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "VKSA का लक्ष्य किसानों की आय को 2028 तक दोगुना करने की दिशा में काम करना है।",
+      "अभियान crop diversification, natural farming और कृषि योजनाओं की जानकारी पर भी जोर देता है।"
+    ],
+    "exam_focus_facts": [
+      "अभियान — विकसित कृषि संकल्प अभियान (VKSA)",
+      "मुख्य लक्ष्य — किसानों की आय को 2028 तक दोगुना करना",
+      "संचालन — Ministry of Agriculture and Farmers’ Welfare",
+      "पहुंच — 700 से अधिक districts"
+    ],
+    "related_facts": [
+      "VKSA farmers तक scientific research और technology पहुंचाने का outreach अभियान है।",
+      "इसमें PM-KISAN और KCC जैसी योजनाओं की जानकारी दी जाती है।",
+      "Crop diversification और natural farming इसके प्रमुख focus हैं।"
+    ],
+    "highlights": [
+      "विकसित कृषि संकल्प अभियान",
+      "VKSA",
+      "किसानों की आय को 2028 तक दोगुना",
+      "natural farming",
+      "PM-KISAN"
+    ],
+    "source": "Ministry of Agriculture and Farmers’ Welfare / PIB",
+    "source_type": "Official",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/1.png",
+    "explanation_image_label": "",
+    "source_url": "https://agriculture.vikaspedia.in/viewcontent/agriculture/agri-credit/viksit-krishi-sankalp-abhiyan?lgn=en"
+  },
+  {
+    "question_number": "Q2",
+    "date": "16 September 2026",
+    "category": "Defence",
+    "question_text": "Garuda-IX 2026 संयुक्त वायु अभ्यास भारत और किस देश के बीच आयोजित किया जा रहा है?",
+    "options": [
+      "भारत और रूस",
+      "भारत और फ्रांस",
+      "भारत और अमेरिका",
+      "भारत और जापान"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Garuda-IX 2026 भारत और France के बीच bilateral air exercise है।",
+      "इसका 9वाँ edition 15 सितंबर 2026 से Coimbatore के Air Force Station Sulur में शुरू हुआ।"
+    ],
+    "exam_focus_facts": [
+      "अभ्यास — Garuda-IX",
+      "देश — भारत और France",
+      "स्थान — Air Force Station Sulur, Coimbatore",
+      "शुरुआत — 15 सितंबर 2026"
+    ],
+    "related_facts": [
+      "अभ्यास में Indian Rafale और Su-30MKI aircraft शामिल हैं।",
+      "French Air and Space Force के Rafale और A330 MRTT भी भाग ले रहे हैं।",
+      "Garuda भारत और France का bilateral air exercise है।"
+    ],
+    "highlights": [
+      "Garuda-IX 2026",
+      "भारत और France",
+      "Air Force Station Sulur",
+      "Rafale",
+      "A330 MRTT"
+    ],
+    "source": "Indian Air Force / Ministry of Defence reports",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/2.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.freejobalert.com/articles/daily-current-affairs-15-september-2026-10424"
+  },
+  {
+    "question_number": "Q3",
+    "date": "16 September 2026",
+    "category": "Environment",
+    "question_text": "Great Indian Bustard के लिए Soft Release Centre कहाँ शुरू किया गया?",
+    "options": [
+      "नलिया, कच्छ, गुजरात",
+      "भरतपुर, राजस्थान",
+      "जैसलमेर, राजस्थान",
+      "गांधीनगर, गुजरात"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "Great Indian Bustard के लिए Soft Release Centre गुजरात के कच्छ जिले के Naliya में शुरू किया गया।",
+      "यह captive-bred birds को धीरे-धीरे wild environment में अनुकूलित करने की व्यवस्था है।"
+    ],
+    "exam_focus_facts": [
+      "स्थान — Naliya, Kutch, Gujarat",
+      "प्रजाति — Great Indian Bustard",
+      "पहल — Soft Release Centre",
+      "संबंधित क्षेत्र — Sayara Forest"
+    ],
+    "related_facts": [
+      "लगभग 11 sq km grassland से Prosopis juliflora हटाकर restoration किया गया।",
+      "लगभग 30 km predator-proof fencing वाली 15 sq km enclosure बनाई गई।",
+      "Sayara Van Kavach मॉडल में mangrove और afforestation कार्य भी शामिल हैं।"
+    ],
+    "highlights": [
+      "Great Indian Bustard",
+      "Soft Release Centre",
+      "Naliya",
+      "Kutch",
+      "30 km predator-proof fencing"
+    ],
+    "source": "Ministry of Environment, Forest and Climate Change reports",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/3.png",
+    "explanation_image_label": "",
+    "source_url": "https://news.webindia123.com/news/Articles/India/20260913/4498333.html"
+  },
+  {
+    "question_number": "Q4",
+    "date": "16 September 2026",
+    "category": "Polity & Judiciary",
+    "question_text": "हिंदी दिवस 2026 पर सुप्रीम कोर्ट ने किस पहल की घोषणा की?",
+    "options": [
+      "न्याय हिंदी मिशन",
+      "जन सूचना सेवा",
+      "ई-न्याय सेवा",
+      "न्याय भाषा पोर्टल"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "सुप्रीम कोर्ट ने 14 सितंबर 2026 को Hindi Diwas पर ‘Jan Soochna Seva’ की घोषणा की।",
+      "इसमें महत्वपूर्ण judgments और orders के सरल हिंदी summaries तथा audio-video bulletins उपलब्ध होंगे।"
+    ],
+    "exam_focus_facts": [
+      "पहल — Jan Soochna Seva",
+      "घोषणा — 14 सितंबर 2026",
+      "संस्था — Supreme Court",
+      "उद्देश्य — inclusive access to justice"
+    ],
+    "related_facts": [
+      "15–30 मिनट के Hindi audio और video bulletins उपलब्ध कराने की योजना है।",
+      "इसे phased manner में अन्य Indian languages तक बढ़ाया जा सकता है।",
+      "Original English judgment ही legally binding रहेगा।"
+    ],
+    "highlights": [
+      "हिंदी दिवस 2026",
+      "Jan Soochna Seva",
+      "सुप्रीम कोर्ट",
+      "सरल हिंदी summaries",
+      "audio-video bulletins"
+    ],
+    "source": "Supreme Court statement / The Hindu",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/4.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindu.com/news/national/supreme-court-announces-launch-of-hindi-public-information-service-jan-soochna-seva/article71465856.ece"
+  },
+  {
+    "question_number": "Q5",
+    "date": "16 September 2026",
+    "category": "Defence Technology",
+    "question_text": "IAF ने Dronathon-2026 के दौरान किस स्वदेशी UTM system का live demonstration किया?",
+    "options": [
+      "Vayu Rakshak",
+      "Vayu UTtaM",
+      "Akash Net",
+      "Drone Suraksha"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "IAF ने Dronathon-2026 में स्वदेशी multi-mode UTM system ‘Vayu UTtaM’ का live demonstration किया।",
+      "यह military और civil UAS को real time में detect और track कर सकता है।"
+    ],
+    "exam_focus_facts": [
+      "सिस्टम — Vayu UTtaM",
+      "पूरा क्षेत्र — Unmanned Traffic Management",
+      "आयोजन — Dronathon-2026",
+      "स्थान — Pokhran Field Firing Range, Jaisalmer"
+    ],
+    "related_facts": [
+      "Dronathon 14–16 सितंबर 2026 को Pokhran में आयोजित हुआ।",
+      "20 से अधिक defence companies, start-ups और MSMEs ने भाग लिया।",
+      "IAF ने IAF UAS Roadmap भी जारी किया।"
+    ],
+    "highlights": [
+      "Dronathon-2026",
+      "Vayu UTtaM",
+      "Unmanned Traffic Management",
+      "Pokhran Field Firing Range",
+      "real time"
+    ],
+    "source": "Indian Air Force / Ministry of Defence",
+    "source_type": "Official",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/5.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.rediff.com/news/report/dronathon-2026-iaf-demonstrates-multi-mode-system-for-drone-management/20260914.htm"
+  },
+  {
+    "question_number": "Q6",
+    "date": "16 September 2026",
+    "category": "International",
+    "question_text": "2024–2026 के कार्यकाल के लिए International Solar Alliance (ISA) के President और Co-President के रूप में किन देशों को चुना गया?",
+    "options": [
+      "फ्रांस और भारत",
+      "भारत और जर्मनी",
+      "भारत और फ्रांस",
+      "भारत और ग्रेनाडा"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "ISA Assembly ने 2024–2026 term के लिए India को President और France को Co-President चुना था।",
+      "यह चुनाव ISA Assembly के November 2024 session में हुआ था और term दो वर्षों का है।"
+    ],
+    "exam_focus_facts": [
+      "ISA President — India",
+      "ISA Co-President — France",
+      "कार्यकाल — 2024–2026",
+      "चुनाव — Seventh ISA Assembly"
+    ],
+    "related_facts": [
+      "ISA की स्थापना 2015 में India और France ने की थी।",
+      "ISA का headquarters Gurugram, Haryana में है।",
+      "Alliance का लक्ष्य 2030 तक solar energy में 1 trillion dollars investment mobilise करना है।"
+    ],
+    "highlights": [
+      "International Solar Alliance",
+      "President — India",
+      "Co-President — France",
+      "2024–2026",
+      "Gurugram"
+    ],
+    "source": "ISA Assembly / Ministry of New and Renewable Energy",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "Term update",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/6.png",
+    "explanation_image_label": "",
+    "source_url": "https://theprint.in/economy/india-france-elected-president-co-president-of-international-solar-alliance-for-2-years/2340847/"
+  },
+  {
+    "question_number": "Q7",
+    "date": "16 September 2026",
+    "category": "Defence",
+    "question_text": "'Mission Anant' के तहत भारतीय नौसेना के लिए कितने नए warships की योजना बताई गई?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "Mission Anant के तहत भारतीय नौसेना के लिए 18 नए warships की योजना बताई गई है।",
+      "इनमें 2 next-generation stealth destroyers, 6 multi-purpose frigates, 6 advanced submarines, 2 survey vessels और 2 offshore patrol vessels शामिल हैं।"
+    ],
+    "exam_focus_facts": [
+      "Mission Anant — 18 नए warships",
+      "अनुमानित मूल्य — ₹1.44 लाख करोड़",
+      "निर्माण — Indian shipyards / Make in India",
+      "स्वीकृति — Cabinet Committee on Security"
+    ],
+    "related_facts": [
+      "योजना में 2 next-generation stealth destroyers और 6 multi-purpose frigates शामिल हैं।",
+      "इसमें 6 advanced submarines, 2 survey vessels और 2 offshore patrol vessels भी शामिल हैं।",
+      "कार्यक्रम का उद्देश्य Indian Navy fleet expansion और स्वदेशी shipbuilding को बढ़ावा देना है।"
+    ],
+    "highlights": [
+      "Mission Anant",
+      "18 नए warships",
+      "₹1.44 लाख करोड़",
+      "6 advanced submarines",
+      "2 offshore patrol vessels"
+    ],
+    "source": "Cabinet Committee on Security / Defence reports",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/7.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.freejobalert.com/articles/daily-current-affairs-15-september-2026-10424"
+  },
+  {
+    "question_number": "Q8",
+    "date": "16 September 2026",
+    "category": "Insurance",
+    "question_text": "‘Bima Sugam’ portal किस नियामक संस्था द्वारा लॉन्च किया गया?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "Bima Sugam portal IRDAI ने launch किया है।",
+      "यह insurance stakeholders के लिए unified digital platform है, जिसका rollout phases में हो रहा है।"
+    ],
+    "exam_focus_facts": [
+      "पोर्टल — Bima Sugam",
+      "नियामक संस्था — IRDAI",
+      "लक्ष्य — Insurance for All by 2047",
+      "rollout — phased"
+    ],
+    "related_facts": [
+      "इसमें Life, Health और General Insurance products शामिल किए जाने हैं।",
+      "ग्राहक policies को compare, buy और manage कर सकेंगे।",
+      "IRDAI headquarters Hyderabad, Telangana में है।"
+    ],
+    "highlights": [
+      "Bima Sugam",
+      "IRDAI",
+      "Insurance for All by 2047",
+      "unified digital platform",
+      "phased"
+    ],
+    "source": "IRDAI / Bima Sugam India Federation",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "1 Year",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/8.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.outlookmoney.com/amp/story/insurance/irdai-launches-bima-sugam-to-simplify-insurance-access"
+  },
+  {
+    "question_number": "Q9",
+    "date": "16 September 2026",
+    "category": "Science & Technology",
+    "question_text": "सितंबर 2026 में ₹200 करोड़ की Series A1 funding किस quantum-security startup ने जुटाई?",
+    "options": [
+      "QpiAI Technologies",
+      "QNu Labs",
+      "TCS",
+      "Infosys Quantum Lab"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "QNu Labs ने सितंबर 2026 में ₹200 crore की Series A1 funding की घोषणा की।",
+      "QNu Labs quantum-safe cybersecurity और communication technologies पर काम करने वाला Indian startup है।"
+    ],
+    "exam_focus_facts": [
+      "Startup — QNu Labs",
+      "Funding — ₹200 crore Series A1 round",
+      "क्षेत्र — Quantum Security",
+      "Funding — ₹200 crore Series A1 round"
+    ],
+    "related_facts": [
+      "QNu Labs ने सितंबर 2026 में ₹200 crore Series A1 funding की घोषणा की।",
+      "इसकी technologies में QKD, QRNG और post-quantum cryptography शामिल हैं।",
+      "Quantum-safe systems banks, telecom और critical infrastructure के लिए उपयोगी हैं।"
+    ],
+    "highlights": [
+      "QNu Labs",
+      "₹200 crore Series A1",
+      "Quantum Security",
+      "quantum-safe cybersecurity",
+      "QKD"
+    ],
+    "source": "QNu Labs / startup funding reports",
+    "source_type": "Tier-2",
+    "confidence": "MEDIUM",
+    "importance": 4,
+    "news_age": "7 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/9.png",
+    "explanation_image_label": "",
+    "source_url": "https://officechai.com/startups/bengaluru-based-quantum-cybersecurity-startup-qnu-raises-21-million/"
+  },
+  {
+    "question_number": "Q10",
+    "date": "16 September 2026",
+    "category": "Digital Payments",
+    "question_text": "UPI और RuPay debit card से संबंधित हालिया व्यवस्था के अनुसार, ₹2,000 तक के transactions पर क्या प्रावधान है?",
+    "options": [
+      "लेनदेन पर 5% शुल्क लगेगा",
+      "कोई प्रत्यक्ष या अप्रत्यक्ष शुल्क नहीं लगेगा",
+      "केवल RuPay पर शुल्क लगेगा",
+      "केवल UPI पर शुल्क लगेगा"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Finance Ministry की notification के अनुसार, ₹2,000 तक के UPI transactions और RuPay-powered debit card payments पर कोई direct या indirect charge नहीं लगेगा।",
+      "₹2,000 से अधिक के कुछ merchant transactions पर MDR की संभावना अलग policy provisions पर निर्भर करेगी; शुल्क स्वतः लागू नहीं होता।"
+    ],
+    "exam_focus_facts": [
+      "₹2,000 तक — कोई direct या indirect charge नहीं",
+      "Modes — UPI और RuPay-powered debit cards",
+      "कानूनी आधार — Payment and Settlement Systems Act, 2007",
+      "₹2,000 से अधिक — MDR स्वतः लागू नहीं"
+    ],
+    "related_facts": [
+      "Notification 14 सितंबर 2026 को जारी की गई।",
+      "RuPay भारत का domestic card payment network है।",
+      "MDR का संबंध merchant transactions से जुड़े charges से होता है।"
+    ],
+    "highlights": [
+      "₹2,000 तक",
+      "कोई direct या indirect charge नहीं",
+      "UPI",
+      "RuPay-powered debit cards",
+      "MDR"
+    ],
+    "source": "Ministry of Finance notification / ET BFSI",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Day",
+    "font_size_scale": 1.08,
+    "explanation_image_url": "images/10.png",
+    "explanation_image_label": "",
+    "source_url": "https://bfsi.economictimes.indiatimes.com/articles/banks-cannot-levy-charges-on-upi-transactions-up-to-rs-2000-govt-says/134246620"
+  }
+]
