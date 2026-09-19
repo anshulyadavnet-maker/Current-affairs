@@ -5,12 +5,12 @@
     "category": "Appointments & Sports",
     "question_text": "ICC के डिप्टी चेयरमैन बनने वाले ज़िम्बाब्वे के पहले क्रिकेट प्रशासक कौन बने हैं?",
     "options": [
-      "ICC",
-      "FIFA",
-      "IOC",
-      "World Rugby"
+      "इमरान ख्वाजा",
+      "जय शाह",
+      "तावेंगवा मुकुहलानी",
+      "रोजर बिन्नी"
     ],
-    "correct_option_id": 0,
+    "correct_option_id": 2,
     "explanation": [
       "ज़िम्बाब्वे क्रिकेट के अध्यक्ष तावेंगवा मुकुहलानी को ICC का डिप्टी चेयर नियुक्त किया गया है।",
       "उन्होंने इमरान ख्वाजा का स्थान लिया है और उनका कार्यकाल नवंबर 2027 तक रहेगा।"
@@ -49,7 +49,7 @@
     "question_text": "भारत की पहली Night Sky Sanctuary कहाँ स्थित है?",
     "options": [
       "हानले, लद्दाख",
-      "पचमढ़ी, मध्य प्रदेश",
+      "नैनीताल, उत्तराखंड",
       "कच्छ, गुजरात",
       "स्पीति, हिमाचल प्रदेश"
     ],
@@ -91,12 +91,12 @@
     "category": "Defence & Research",
     "question_text": "DRDO द्वारा नई मिसाइल परीक्षण रेंज किस स्थान पर स्थापित की जाएगी?",
     "options": [
-      "जुनपुट, पश्चिम बंगाल",
       "चांदीपुर, ओडिशा",
+      "जुनपुट, पश्चिम बंगाल",
       "पोखरण, राजस्थान",
-      "कुडलोर, तमिलनाडु"
+      "श्रीहरिकोटा, आंध्र प्रदेश"
     ],
-    "correct_option_id": 0,
+    "correct_option_id": 1,
     "explanation": [
       "West Bengal government ने Purba Medinipur के Junput में DRDO की नई testing facility को मंजूरी दी है।",
       "यह facility Chandipur Integrated Test Range का workload कम करने में मदद करेगी।"
@@ -134,12 +134,12 @@
     "category": "Economy",
     "question_text": "नवीनतम आंकड़ों के अनुसार भारत दुनिया का चौथा सबसे बड़ा विदेशी मुद्रा भंडार धारक देश किसे पीछे छोड़कर बना है?",
     "options": [
+      "जापान",
+      "स्विट्जरलैंड",
       "रूस",
-      "जर्मनी",
-      "ब्राजील",
-      "कनाडा"
+      "चीन"
     ],
-    "correct_option_id": 0,
+    "correct_option_id": 2,
     "explanation": [
       "भारत ने रूस को पीछे छोड़कर दुनिया का चौथा सबसे बड़ा foreign-exchange reserves holder बनने का स्थान हासिल किया है।",
       "RBI data के अनुसार भारत का forex reserve 4 सितंबर 2026 को रिकॉर्ड 785.7 billion डॉलर था।"
@@ -177,12 +177,12 @@
     "category": "International Appointments",
     "question_text": "विश्व बैंक के नए Chief Economist और Development Economics के Senior Vice President के रूप में किसे नियुक्त किया गया है?",
     "options": [
-      "Senior Vice President for Development Economics",
-      "Managing Director for Finance",
-      "President for Global Operations",
-      "Vice President for Climate Finance"
+      "इंदरमीत गिल",
+      "अजय बंगा",
+      "माइकल क्रेमर",
+      "अभिजीत बनर्जी"
     ],
-    "correct_option_id": 0,
+    "correct_option_id": 2,
     "explanation": [
       "माइकल क्रेमर को World Bank Group का Chief Economist और Senior Vice President for Development Economics नियुक्त किया गया है।",
       "उनकी नियुक्ति 1 अक्टूबर 2026 से प्रभावी होगी और उन्होंने Indermit Gill का स्थान लिया है।"
@@ -221,9 +221,9 @@
     "question_text": "पश्चिम बंगाल सरकार ने प्रत्येक वर्ष 17 सितंबर को किस दिवस के रूप में मनाने की घोषणा की है?",
     "options": [
       "अन्नपूर्णा दिवस",
-      "कन्याश्री दिवस",
+      "कृषि दिवस",
       "बंगाल विकास दिवस",
-      "स्वास्थ्य साथी दिवस"
+      "राष्ट्रीय पोषण दिवस"
     ],
     "correct_option_id": 0,
     "explanation": [
@@ -263,12 +263,12 @@
     "category": "Sports",
     "question_text": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ कितनी गेंदों में T20I शतक बनाकर नया रिकॉर्ड बनाया?",
     "options": [
-      "30 गेंदों में",
-      "31 गेंदों में",
-      "33 गेंदों में",
-      "35 गेंदों में"
+      "27 गेंद",
+      "30 गेंद",
+      "33 गेंद",
+      "35 गेंद"
     ],
-    "correct_option_id": 0,
+    "correct_option_id": 1,
     "explanation": [
       "अभिषेक शर्मा ने Afghanistan के खिलाफ तीसरे T20I में 30 गेंदों में शतक बनाया।",
       "उन्होंने 34 गेंदों में 108 रन बनाए और भारत ने यह मैच 127 रन से जीता।"
@@ -306,12 +306,12 @@
     "category": "Sports & Infrastructure",
     "question_text": "2028 और 2029 UEFA Champions League Finals की मेजबानी क्रमशः कौन-से शहर करेंगे?",
     "options": [
-      "Munich Football Arena और Camp Nou",
-      "Wembley और Santiago Bernabéu",
-      "San Siro और Parc des Princes",
-      "Allianz Stadium और Emirates Stadium"
+      "लंदन और पेरिस",
+      "म्यूनिख और बार्सिलोना",
+      "मैड्रिड और रोम",
+      "बर्लिन और मिलान"
     ],
-    "correct_option_id": 0,
+    "correct_option_id": 1,
     "explanation": [
       "UEFA ने 2028 final के लिए Munich Football Arena और 2029 final के लिए Camp Nou को चुना है।",
       "Munich में 2025 के बाद फिर final होगा, जबकि Camp Nou में पिछला final 1999 में हुआ था।"
@@ -349,12 +349,12 @@
     "category": "Index & Global Reports",
     "question_text": "Academic Freedom Index 2026 में भारत को किस श्रेणी में रखा गया है?",
     "options": [
-      "Severely restricted",
-      "Completely free",
-      "Partly restricted",
-      "Moderately protected"
+      "Fully Free",
+      "Mostly Free",
+      "Severely/Completely Restricted",
+      "Partially Restricted"
     ],
-    "correct_option_id": 0,
+    "correct_option_id": 2,
     "explanation": [
       "Scholars at Risk की Free to Think 2026 report में भारत को academic freedom की Severely restricted श्रेणी में रखा गया है।",
       "रिपोर्ट में भारत का AFI score 0.14 बताया गया है, जो पिछले वर्षों के score से काफी कम है।"
@@ -392,10 +392,10 @@
     "category": "Sports",
     "question_text": "पुरुषों के ODI क्रिकेट में सबसे लंबे करियर का रिकॉर्ड किस खिलाड़ी ने सचिन तेंदुलकर को पीछे छोड़कर बनाया है?",
     "options": [
-      "Sachin Tendulkar",
-      "Sanath Jayasuriya",
-      "Javed Miandad",
-      "AB de Villiers"
+      "ब्रेंडन टेलर",
+      "सनथ जयसूर्या",
+      "रॉस टेलर",
+      "सचिन तेंदुलकर"
     ],
     "correct_option_id": 0,
     "explanation": [
