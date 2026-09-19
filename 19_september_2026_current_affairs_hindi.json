@@ -3,16 +3,35 @@
     "question_number": "Q1",
     "date": "19 September 2026",
     "category": "Appointments & Sports",
-    "question_text": "तावेंगवा मुकुहलानी को किस अंतर्राष्ट्रीय संस्था का डिप्टी चेयर नियुक्त किया गया है?",
-    "options": ["ICC", "FIFA", "IOC", "World Rugby"],
+    "question_text": "ICC के डिप्टी चेयरमैन बनने वाले ज़िम्बाब्वे के पहले क्रिकेट प्रशासक कौन बने हैं?",
+    "options": [
+      "ICC",
+      "FIFA",
+      "IOC",
+      "World Rugby"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "ज़िम्बाब्वे क्रिकेट के अध्यक्ष तावेंगवा मुकुहलानी को ICC का डिप्टी चेयर नियुक्त किया गया है।",
       "उन्होंने इमरान ख्वाजा का स्थान लिया है और उनका कार्यकाल नवंबर 2027 तक रहेगा।"
     ],
-    "exam_focus_facts": ["Appointment — Tavengwa Mukuhlani", "Post — ICC Deputy Chair", "Tenure — November 2027 तक"],
-    "related_facts": ["वे ICC Deputy Chair बनने वाले पहले ज़िम्बाब्वे के व्यक्ति हैं।", "ICC का मुख्यालय दुबई, UAE में है।", "2027 Men’s Cricket World Cup की मेजबानी Zimbabwe, South Africa और Namibia करेंगे।"],
-    "highlights": ["तावेंगवा मुकुहलानी", "ICC", "डिप्टी चेयर", "नवंबर 2027", "ज़िम्बाब्वे"],
+    "exam_focus_facts": [
+      "Appointment — Tavengwa Mukuhlani",
+      "Post — ICC Deputy Chair",
+      "Tenure — November 2027 तक"
+    ],
+    "related_facts": [
+      "वे ICC Deputy Chair बनने वाले पहले ज़िम्बाब्वे के व्यक्ति हैं।",
+      "ICC का मुख्यालय दुबई, UAE में है।",
+      "2027 Men’s Cricket World Cup की मेजबानी Zimbabwe, South Africa और Namibia करेंगे।"
+    ],
+    "highlights": [
+      "तावेंगवा मुकुहलानी",
+      "ICC",
+      "डिप्टी चेयर",
+      "नवंबर 2027",
+      "ज़िम्बाब्वे"
+    ],
     "source": "International Cricket Council",
     "source_type": "Official",
     "confidence": "HIGH",
@@ -27,16 +46,35 @@
     "question_number": "Q2",
     "date": "19 September 2026",
     "category": "Environment & Science",
-    "question_text": "भारत का पहला Dark Sky Reserve कहाँ स्थित है?",
-    "options": ["हानले, लद्दाख", "पचमढ़ी, मध्य प्रदेश", "कच्छ, गुजरात", "स्पीति, हिमाचल प्रदेश"],
+    "question_text": "भारत की पहली Night Sky Sanctuary कहाँ स्थित है?",
+    "options": [
+      "हानले, लद्दाख",
+      "पचमढ़ी, मध्य प्रदेश",
+      "कच्छ, गुजरात",
+      "स्पीति, हिमाचल प्रदेश"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "भारत का पहला Dark Sky Reserve लद्दाख के हानले क्षेत्र में स्थित है।",
       "यह Changthang Wildlife Sanctuary क्षेत्र में खगोलीय अनुसंधान और astro-tourism को बढ़ावा देता है।"
     ],
-    "exam_focus_facts": ["Location — Hanle, Ladakh", "Status — India’s first Dark Sky Reserve", "Purpose — Astro-tourism और light-pollution control"],
-    "related_facts": ["हानले लगभग 4,500 मीटर की ऊँचाई पर स्थित है।", "Indian Institute of Astrophysics, Bengaluru इससे जुड़ा है।", "यह reserve दिसंबर 2022 में notify किया गया था।"],
-    "highlights": ["पहला Dark Sky Reserve", "हानले", "लद्दाख", "Changthang Wildlife Sanctuary", "astro-tourism"],
+    "exam_focus_facts": [
+      "Location — Hanle, Ladakh",
+      "Status — India’s first Dark Sky Reserve",
+      "Purpose — Astro-tourism और light-pollution control"
+    ],
+    "related_facts": [
+      "हानले लगभग 4,500 मीटर की ऊँचाई पर स्थित है।",
+      "Indian Institute of Astrophysics, Bengaluru इससे जुड़ा है।",
+      "यह reserve दिसंबर 2022 में notify किया गया था।"
+    ],
+    "highlights": [
+      "पहला Dark Sky Reserve",
+      "हानले",
+      "लद्दाख",
+      "Changthang Wildlife Sanctuary",
+      "astro-tourism"
+    ],
     "source": "Department of Science & Technology / Indian Institute of Astrophysics",
     "source_type": "Official + Tier-2",
     "confidence": "HIGH",
@@ -51,16 +89,35 @@
     "question_number": "Q3",
     "date": "19 September 2026",
     "category": "Defence & Research",
-    "question_text": "DRDO की नई weapons और missile testing facility किस स्थान पर स्थापित की जाएगी?",
-    "options": ["जुनपुट, पश्चिम बंगाल", "चांदीपुर, ओडिशा", "पोखरण, राजस्थान", "कुडलोर, तमिलनाडु"],
+    "question_text": "DRDO द्वारा नई मिसाइल परीक्षण रेंज किस स्थान पर स्थापित की जाएगी?",
+    "options": [
+      "जुनपुट, पश्चिम बंगाल",
+      "चांदीपुर, ओडिशा",
+      "पोखरण, राजस्थान",
+      "कुडलोर, तमिलनाडु"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "West Bengal government ने Purba Medinipur के Junput में DRDO की नई testing facility को मंजूरी दी है।",
       "यह facility Chandipur Integrated Test Range का workload कम करने में मदद करेगी।"
     ],
-    "exam_focus_facts": ["Location — Junput, West Bengal", "Organisation — DRDO", "Purpose — Weapons और missile testing"],
-    "related_facts": ["Junput Bay of Bengal के तट पर स्थित है।", "यह Chandipur से लगभग 70 किलोमीटर दूर है।", "यहाँ short-range missiles और radar systems के परीक्षण की योजना है।"],
-    "highlights": ["DRDO", "Junput", "West Bengal", "Chandipur", "missile testing facility"],
+    "exam_focus_facts": [
+      "Location — Junput, West Bengal",
+      "Organisation — DRDO",
+      "Purpose — Weapons और missile testing"
+    ],
+    "related_facts": [
+      "Junput Bay of Bengal के तट पर स्थित है।",
+      "यह Chandipur से लगभग 70 किलोमीटर दूर है।",
+      "यहाँ short-range missiles और radar systems के परीक्षण की योजना है।"
+    ],
+    "highlights": [
+      "DRDO",
+      "Junput",
+      "West Bengal",
+      "Chandipur",
+      "short-range missiles"
+    ],
     "source": "West Bengal Government / DRDO reporting",
     "source_type": "Official + Tier-2",
     "confidence": "HIGH",
@@ -75,16 +132,35 @@
     "question_number": "Q4",
     "date": "19 September 2026",
     "category": "Economy",
-    "question_text": "भारत दुनिया का चौथा सबसे बड़ा foreign-exchange reserves holder किस देश को पीछे छोड़कर बना?",
-    "options": ["रूस", "जर्मनी", "ब्राजील", "कनाडा"],
+    "question_text": "नवीनतम आंकड़ों के अनुसार भारत दुनिया का चौथा सबसे बड़ा विदेशी मुद्रा भंडार धारक देश किसे पीछे छोड़कर बना है?",
+    "options": [
+      "रूस",
+      "जर्मनी",
+      "ब्राजील",
+      "कनाडा"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "भारत ने रूस को पीछे छोड़कर दुनिया का चौथा सबसे बड़ा foreign-exchange reserves holder बनने का स्थान हासिल किया है।",
       "RBI data के अनुसार भारत का forex reserve 4 सितंबर 2026 को रिकॉर्ड 785.7 billion डॉलर था।"
     ],
-    "exam_focus_facts": ["Rank — Fourth globally", "Reserves — 785.7 billion डॉलर", "Surpassed — Russia"],
-    "related_facts": ["Top three में China, Japan और Switzerland हैं।", "Foreign-exchange reserves में FCA, gold, SDR और IMF reserve position शामिल होते हैं।", "यह आंकड़ा RBI के सप्ताहिक reserve data से संबंधित है।"],
-    "highlights": ["चौथा सबसे बड़ा", "Russia", "785.7 billion डॉलर", "forex reserve", "RBI"],
+    "exam_focus_facts": [
+      "Rank — Fourth globally",
+      "Reserves — 785.7 billion डॉलर",
+      "Surpassed — Russia"
+    ],
+    "related_facts": [
+      "Top three में China, Japan और Switzerland हैं।",
+      "Foreign-exchange reserves में FCA, gold, SDR और IMF reserve position शामिल होते हैं।",
+      "यह आंकड़ा RBI के सप्ताहिक reserve data से संबंधित है।"
+    ],
+    "highlights": [
+      "चौथा सबसे बड़ा",
+      "Russia",
+      "785.7 billion डॉलर",
+      "forex reserve",
+      "RBI"
+    ],
     "source": "Reserve Bank of India data / Indian Express",
     "source_type": "Official data + Tier-1",
     "confidence": "HIGH",
@@ -99,16 +175,35 @@
     "question_number": "Q5",
     "date": "19 September 2026",
     "category": "International Appointments",
-    "question_text": "माइकल क्रेमर को World Bank Group का नया Chief Economist किस पद के साथ नियुक्त किया गया है?",
-    "options": ["Senior Vice President for Development Economics", "Managing Director for Finance", "President for Global Operations", "Vice President for Climate Finance"],
+    "question_text": "विश्व बैंक के नए Chief Economist और Development Economics के Senior Vice President के रूप में किसे नियुक्त किया गया है?",
+    "options": [
+      "Senior Vice President for Development Economics",
+      "Managing Director for Finance",
+      "President for Global Operations",
+      "Vice President for Climate Finance"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "माइकल क्रेमर को World Bank Group का Chief Economist और Senior Vice President for Development Economics नियुक्त किया गया है।",
       "उनकी नियुक्ति 1 अक्टूबर 2026 से प्रभावी होगी और उन्होंने Indermit Gill का स्थान लिया है।"
     ],
-    "exam_focus_facts": ["Person — Michael Kremer", "Post — Chief Economist", "Effective — 1 October 2026"],
-    "related_facts": ["Kremer 2019 Economics Nobel laureate हैं।", "उन्होंने Abhijit Banerjee और Esther Duflo के साथ Nobel Prize साझा किया था।", "World Bank Group के President Ajay Banga हैं।"],
-    "highlights": ["माइकल क्रेमर", "World Bank Group", "Chief Economist", "1 अक्टूबर 2026", "Indermit Gill"],
+    "exam_focus_facts": [
+      "Person — Michael Kremer",
+      "Post — Chief Economist",
+      "Effective — 1 October 2026"
+    ],
+    "related_facts": [
+      "Kremer 2019 Economics Nobel laureate हैं।",
+      "उन्होंने Abhijit Banerjee और Esther Duflo के साथ Nobel Prize साझा किया था।",
+      "World Bank Group के President Ajay Banga हैं।"
+    ],
+    "highlights": [
+      "माइकल क्रेमर",
+      "World Bank Group",
+      "Chief Economist",
+      "1 अक्टूबर 2026",
+      "Indermit Gill"
+    ],
     "source": "World Bank Group",
     "source_type": "Official",
     "confidence": "HIGH",
@@ -123,16 +218,35 @@
     "question_number": "Q6",
     "date": "19 September 2026",
     "category": "State Schemes & Governance",
-    "question_text": "पश्चिम बंगाल में 17 सितंबर को किस दिवस के रूप में मनाने की घोषणा की गई है?",
-    "options": ["अन्नपूर्णा दिवस", "कन्याश्री दिवस", "बंगाल विकास दिवस", "स्वास्थ्य साथी दिवस"],
+    "question_text": "पश्चिम बंगाल सरकार ने प्रत्येक वर्ष 17 सितंबर को किस दिवस के रूप में मनाने की घोषणा की है?",
+    "options": [
+      "अन्नपूर्णा दिवस",
+      "कन्याश्री दिवस",
+      "बंगाल विकास दिवस",
+      "स्वास्थ्य साथी दिवस"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "पश्चिम बंगाल में 17 सितंबर को अन्नपूर्णा दिवस के रूप में मनाने की घोषणा की गई है।",
       "Annapurna Yojana के तहत पात्र महिलाओं को DBT के माध्यम से 3,000 रुपये मासिक सहायता दी जाती है।"
     ],
-    "exam_focus_facts": ["Day — Annapurna Diwas", "Date — 17 September", "Benefit — 3,000 रुपये monthly DBT"],
-    "related_facts": ["यह दिन प्रधानमंत्री नरेंद्र मोदी के जन्मदिवस के अवसर से भी जुड़ा है।", "योजना में पात्र महिलाओं को direct bank transfer मिलता है।", "रिपोर्टों में योजना को पूर्व Lakshmir Bhandar scheme से connected बताया गया है।"],
-    "highlights": ["17 सितंबर", "अन्नपूर्णा दिवस", "Annapurna Yojana", "3,000 रुपये", "DBT"],
+    "exam_focus_facts": [
+      "Day — Annapurna Diwas",
+      "Date — 17 September",
+      "Benefit — 3,000 रुपये monthly DBT"
+    ],
+    "related_facts": [
+      "यह दिन प्रधानमंत्री नरेंद्र मोदी के जन्मदिवस के अवसर से भी जुड़ा है।",
+      "योजना में पात्र महिलाओं को direct bank transfer मिलता है।",
+      "रिपोर्टों में योजना को पूर्व Lakshmir Bhandar scheme से connected बताया गया है।"
+    ],
+    "highlights": [
+      "17 सितंबर",
+      "अन्नपूर्णा दिवस",
+      "Annapurna Yojana",
+      "3,000 रुपये",
+      "DBT"
+    ],
     "source": "West Bengal Government reporting / New Indian Express",
     "source_type": "State reporting + Tier-1",
     "confidence": "MEDIUM",
@@ -147,16 +261,35 @@
     "question_number": "Q7",
     "date": "19 September 2026",
     "category": "Sports",
-    "question_text": "अभिषेक शर्मा ने Afghanistan के खिलाफ तीसरे T20I में कितनी गेंदों में शतक बनाया?",
-    "options": ["30 गेंदों में", "31 गेंदों में", "33 गेंदों में", "35 गेंदों में"],
+    "question_text": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ कितनी गेंदों में T20I शतक बनाकर नया रिकॉर्ड बनाया?",
+    "options": [
+      "30 गेंदों में",
+      "31 गेंदों में",
+      "33 गेंदों में",
+      "35 गेंदों में"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "अभिषेक शर्मा ने Afghanistan के खिलाफ तीसरे T20I में 30 गेंदों में शतक बनाया।",
       "उन्होंने 34 गेंदों में 108 रन बनाए और भारत ने यह मैच 127 रन से जीता।"
     ],
-    "exam_focus_facts": ["Player — Abhishek Sharma", "Century — 30 balls", "Score — 108 off 34 balls"],
-    "related_facts": ["यह Full Member nations के बीच सबसे तेज T20I century थी।", "उनकी पारी में 9 fours और 11 sixes थे।", "भारत ने Afghanistan के खिलाफ series 3-0 से जीती।"],
-    "highlights": ["अभिषेक शर्मा", "Afghanistan", "तीसरे T20I", "30 गेंदों में", "108 रन"],
+    "exam_focus_facts": [
+      "Player — Abhishek Sharma",
+      "Century — 30 balls",
+      "Score — 108 off 34 balls"
+    ],
+    "related_facts": [
+      "यह Full Member nations के बीच सबसे तेज T20I century थी।",
+      "उनकी पारी में 9 fours और 11 sixes थे।",
+      "भारत ने Afghanistan के खिलाफ series 3-0 से जीती।"
+    ],
+    "highlights": [
+      "30 गेंदों में",
+      "अभिषेक शर्मा",
+      "Full Member nations",
+      "T20I century",
+      "अफगानिस्तान"
+    ],
     "source": "BBC Sport",
     "source_type": "Tier-1",
     "confidence": "HIGH",
@@ -171,16 +304,35 @@
     "question_number": "Q8",
     "date": "19 September 2026",
     "category": "Sports & Infrastructure",
-    "question_text": "2028 और 2029 UEFA Champions League finals के लिए किन venues को चुना गया है?",
-    "options": ["Munich Football Arena और Camp Nou", "Wembley और Santiago Bernabéu", "San Siro और Parc des Princes", "Allianz Stadium और Emirates Stadium"],
+    "question_text": "2028 और 2029 UEFA Champions League Finals की मेजबानी क्रमशः कौन-से शहर करेंगे?",
+    "options": [
+      "Munich Football Arena और Camp Nou",
+      "Wembley और Santiago Bernabéu",
+      "San Siro और Parc des Princes",
+      "Allianz Stadium और Emirates Stadium"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "UEFA ने 2028 final के लिए Munich Football Arena और 2029 final के लिए Camp Nou को चुना है।",
       "Munich में 2025 के बाद फिर final होगा, जबकि Camp Nou में पिछला final 1999 में हुआ था।"
     ],
-    "exam_focus_facts": ["2028 — Munich Football Arena", "2029 — Camp Nou", "Organisation — UEFA"],
-    "related_facts": ["Camp Nou Barcelona, Spain में स्थित है।", "Munich Football Arena Munich, Germany में स्थित है।", "UEFA Champions League Europe की प्रमुख club football competition है।"],
-    "highlights": ["2028", "Munich Football Arena", "2029", "Camp Nou", "UEFA Champions League"],
+    "exam_focus_facts": [
+      "2028 — Munich Football Arena",
+      "2029 — Camp Nou",
+      "Organisation — UEFA"
+    ],
+    "related_facts": [
+      "Camp Nou Barcelona, Spain में स्थित है।",
+      "Munich Football Arena Munich, Germany में स्थित है।",
+      "UEFA Champions League Europe की प्रमुख club football competition है।"
+    ],
+    "highlights": [
+      "2028",
+      "Munich Football Arena",
+      "2029",
+      "Camp Nou",
+      "UEFA Champions League"
+    ],
     "source": "UEFA",
     "source_type": "Official",
     "confidence": "HIGH",
@@ -196,15 +348,34 @@
     "date": "19 September 2026",
     "category": "Index & Global Reports",
     "question_text": "Academic Freedom Index 2026 में भारत को किस श्रेणी में रखा गया है?",
-    "options": ["Severely restricted", "Completely free", "Partly restricted", "Moderately protected"],
+    "options": [
+      "Severely restricted",
+      "Completely free",
+      "Partly restricted",
+      "Moderately protected"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "Scholars at Risk की Free to Think 2026 report में भारत को academic freedom की Severely restricted श्रेणी में रखा गया है।",
       "रिपोर्ट में भारत का AFI score 0.14 बताया गया है, जो पिछले वर्षों के score से काफी कम है।"
     ],
-    "exam_focus_facts": ["Report — Free to Think 2026", "Category — Severely restricted", "India AFI score — 0.14"],
-    "related_facts": ["रिपोर्ट Scholars at Risk network से संबंधित है।", "भारत के साथ Hong Kong, Indonesia, Pakistan, West Bank और Ukraine भी इस category में हैं।", "Academic freedom में research, teaching और campus expression जैसे aspects शामिल हैं।"],
-    "highlights": ["Academic Freedom Index 2026", "भारत", "Severely restricted", "0.14", "Free to Think 2026"],
+    "exam_focus_facts": [
+      "Report — Free to Think 2026",
+      "Category — Severely restricted",
+      "India AFI score — 0.14"
+    ],
+    "related_facts": [
+      "रिपोर्ट Scholars at Risk network से संबंधित है।",
+      "भारत के साथ Hong Kong, Indonesia, Pakistan, West Bank और Ukraine भी इस category में हैं।",
+      "Academic freedom में research, teaching और campus expression जैसे aspects शामिल हैं।"
+    ],
+    "highlights": [
+      "Academic Freedom Index 2026",
+      "भारत",
+      "Severely restricted",
+      "0.14",
+      "Free to Think 2026"
+    ],
     "source": "Scholars at Risk / The Hindu",
     "source_type": "Research report + Tier-1",
     "confidence": "HIGH",
@@ -219,16 +390,35 @@
     "question_number": "Q10",
     "date": "19 September 2026",
     "category": "Sports",
-    "question_text": "Brendan Taylor ने पुरुषों के ODI cricket में किस खिलाड़ी का longest career-span record तोड़ा?",
-    "options": ["Sachin Tendulkar", "Sanath Jayasuriya", "Javed Miandad", "AB de Villiers"],
+    "question_text": "पुरुषों के ODI क्रिकेट में सबसे लंबे करियर का रिकॉर्ड किस खिलाड़ी ने सचिन तेंदुलकर को पीछे छोड़कर बनाया है?",
+    "options": [
+      "Sachin Tendulkar",
+      "Sanath Jayasuriya",
+      "Javed Miandad",
+      "AB de Villiers"
+    ],
     "correct_option_id": 0,
     "explanation": [
       "Brendan Taylor ने Sachin Tendulkar का पुरुषों के ODI में longest career-span record तोड़ा है।",
       "Taylor का ODI career span 22 वर्ष और 148 दिन हो गया, जबकि Tendulkar का span 22 वर्ष और 91 दिन था।"
     ],
-    "exam_focus_facts": ["Player — Brendan Taylor", "Record — Longest men’s ODI career span", "Previous record holder — Sachin Tendulkar"],
-    "related_facts": ["Taylor ने यह उपलब्धि Australia के खिलाफ Harare में हासिल की।", "उनके नाम Zimbabwe के लिए 11 ODI centuries का national record है।", "Sachin Tendulkar अब भी 18,426 ODI runs और 463 appearances के record holder हैं।"],
-    "highlights": ["Brendan Taylor", "Sachin Tendulkar", "longest career-span", "22 वर्ष और 148 दिन", "11 ODI centuries"],
+    "exam_focus_facts": [
+      "Player — Brendan Taylor",
+      "Record — Longest men’s ODI career span",
+      "Previous record holder — Sachin Tendulkar"
+    ],
+    "related_facts": [
+      "Taylor ने यह उपलब्धि Australia के खिलाफ Harare में हासिल की।",
+      "उनके नाम Zimbabwe के लिए 11 ODI centuries का national record है।",
+      "Sachin Tendulkar अब भी 18,426 ODI runs और 463 appearances के record holder हैं।"
+    ],
+    "highlights": [
+      "Brendan Taylor",
+      "Sachin Tendulkar",
+      "ODI career span",
+      "22 वर्ष और 148 दिन",
+      "11 ODI centuries"
+    ],
     "source": "CricTracker / The News Mill",
     "source_type": "Tier-1/Tier-2 sports reporting",
     "confidence": "HIGH",
