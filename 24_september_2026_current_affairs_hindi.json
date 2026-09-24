@@ -292,33 +292,35 @@
   {
     "question_number": "Q10",
     "date": "24 September 2026",
-    "category": "अर्थव्यवस्था एवं पर्यटन",
-    "question_text": "Domestic Tourism Expenditure Survey 2025–26 के अनुसार, पिछले 30 दिनों में किए गए overnight trips में प्रति यात्रा औसत सबसे अधिक खर्च किस प्रकार की यात्रा पर दर्ज किया गया?",
+    "category": "खेल एवं एशियाई खेल",
+    "question_text": "Asian Games 2026 में मीराबाई चानू ने किस स्पर्धा में रजत पदक जीतकर भारत का 28 साल का इंतजार समाप्त किया?",
     "options": [
-      "सामाजिक यात्रा (Social)",
-      "व्यावसायिक यात्रा (Business)",
-      "तीर्थ एवं धार्मिक यात्रा (Pilgrimage & Religious)",
-      "स्वास्थ्य एवं चिकित्सा यात्रा (Health & Medical)"
+      "महिला 49 किग्रा वेटलिफ्टिंग",
+      "महिला 59 किग्रा वेटलिफ्टिंग",
+      "महिला 55 किग्रा वेटलिफ्टिंग",
+      "महिला 64 किग्रा वेटलिफ्टिंग"
     ],
-    "correct_option_id": 1,
+    "correct_option_id": 0,
     "explanation": [
-      "Domestic Tourism Expenditure Survey 2025–26 के अनुसार, पिछले 30 दिनों में किए गए overnight trips में Business trips पर प्रति यात्रा औसत सबसे अधिक ₹5,949 खर्च दर्ज किया गया। इसी अवधि में Social trips सबसे अधिक संख्या में किए गए overnight trips रहे, जबकि पिछले 365 दिनों में Pilgrimage & Religious trips overnight travel का प्रमुख उद्देश्य रहे। यह सर्वेक्षण जुलाई 2025 से जून 2026 की अवधि से संबंधित है और 23 सितंबर 2026 को जारी किया गया।"
+      "मीराबाई चानू ने Asian Games 2026 में महिला 49 किग्रा वेटलिफ्टिंग स्पर्धा में रजत पदक जीता।",
+      "उन्होंने कुल 198 किग्रा (87 किग्रा Snatch और 111 किग्रा Clean & Jerk) वजन उठाकर दूसरा स्थान हासिल किया।",
+      "उनका रजत पदक Asian Games में भारत का 28 साल बाद पहला वेटलिफ्टिंग पदक है; इससे पहले कर्णम मल्लेश्वरी ने 1998 में पदक जीता था।"
     ],
     "highlights": [
-      "Domestic Tourism Expenditure Survey 2025–26",
-      "overnight trips",
-      "Business trips",
-      "₹5,949",
-      "Social trips"
+      "मीराबाई चानू",
+      "Asian Games 2026",
+      "महिला 49 किग्रा",
+      "रजत पदक",
+      "कुल 198 किग्रा"
     ],
-    "source": "NSO/MoSPI survey findings reported by IANS",
-    "source_type": "Official + Tier-2",
+    "source": "India Today / The Indian Express",
+    "source_type": "Tier-2",
     "confidence": "HIGH",
-    "importance": 4,
+    "importance": 5,
     "news_age": "1 Day",
     "font_size_scale": 1.15,
     "explanation_image_url": "images/10.png",
     "explanation_image_label": "",
-    "source_url": "https://www.thehawk.in/news/economy-and-business/most-indians-performing-overnight-trips-for-pilgrimage-and-religious-purpose-govt-survey"
+    "source_url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-mirabai-chanu-silver-medal-maiden-india-49kg-medal-drought-ends-3000877-2026-09-23"
   }
 ]
