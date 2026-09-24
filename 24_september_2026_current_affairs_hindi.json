@@ -4,10 +4,23 @@
     "date": "24 September 2026",
     "category": "रक्षा एवं आत्मनिर्भरता",
     "question_text": "भारतीय वायु सेना के लिए 160 Satellite Smart Anti-Airfield Weapons (SAT-SAAW) की खरीद हेतु रक्षा मंत्रालय ने किस कंपनी के साथ ₹810.79 करोड़ का अनुबंध किया?",
-    "options": ["Bharat Dynamics Limited (BDL)", "Hindustan Aeronautics Limited (HAL)", "Bharat Electronics Limited (BEL)", "Mazagon Dock Shipbuilders Limited (MDL)"],
+    "options": [
+      "Bharat Dynamics Limited (BDL)",
+      "Hindustan Aeronautics Limited (HAL)",
+      "Bharat Electronics Limited (BEL)",
+      "Mazagon Dock Shipbuilders Limited (MDL)"
+    ],
     "correct_option_id": 0,
-    "explanation": ["रक्षा मंत्रालय ने 23 सितंबर 2026 को भारतीय वायु सेना के लिए 160 SAT-SAAW weapons और associated equipment की खरीद हेतु Bharat Dynamics Limited (BDL) के साथ ₹810.79 करोड़ का अनुबंध किया। SAT-SAAW DRDO द्वारा स्वदेशी रूप से विकसित air-to-ground precision-guided glide bomb है, जिसे Jaguar, Hawk और Su-30 MKI जैसे विमानों से लॉन्च किया जा सकता है। इसमें 60% indigenous content होगा और delivery 2027-28 तथा 2028-29 में निर्धारित है।"],
-    "highlights": ["160 SAT-SAAW", "₹810.79 करोड़", "Bharat Dynamics Limited (BDL)", "Indian Air Force", "60% indigenous content"],
+    "explanation": [
+      "रक्षा मंत्रालय ने 23 सितंबर 2026 को भारतीय वायु सेना के लिए 160 SAT-SAAW weapons और associated equipment की खरीद हेतु Bharat Dynamics Limited (BDL) के साथ ₹810.79 करोड़ का अनुबंध किया। SAT-SAAW DRDO द्वारा स्वदेशी रूप से विकसित air-to-ground precision-guided glide bomb है, जिसे Jaguar, Hawk और Su-30 MKI जैसे विमानों से लॉन्च किया जा सकता है। इसमें 60% indigenous content होगा और delivery 2027-28 तथा 2028-29 में निर्धारित है।"
+    ],
+    "highlights": [
+      "160 SAT-SAAW",
+      "₹810.79 करोड़",
+      "Bharat Dynamics Limited (BDL)",
+      "Indian Air Force",
+      "60% indigenous content"
+    ],
     "source": "Ministry of Defence report",
     "source_type": "Official + Tier-2",
     "confidence": "HIGH",
@@ -23,10 +36,23 @@
     "date": "24 September 2026",
     "category": "खेल एवं एशियाई खेल",
     "question_text": "Asian Games 2026 में Soft Tennis में भारत का पहला पदक जीतने वाले खिलाड़ी कौन बने?",
-    "options": ["जय मीणा", "मानव ठक्कर", "हरमीत देसाई", "साथियान ज्ञानसेकरन"],
+    "options": [
+      "जय मीणा",
+      "मानव ठक्कर",
+      "हरमीत देसाई",
+      "साथियान ज्ञानसेकरन"
+    ],
     "correct_option_id": 0,
-    "explanation": ["जय मीणा ने Aichi-Nagoya Asian Games 2026 की Men’s Individual Soft Tennis स्पर्धा में कांस्य पदक जीतकर इस खेल में भारत का पहला Asian Games पदक हासिल किया। सेमीफाइनल में उन्हें जापान के Takuya Kurosaka से 2-4 से हार मिली, लेकिन सेमीफाइनल में पहुंचने के कारण कांस्य पदक सुनिश्चित हो गया। यह उपलब्धि Asian Games में Soft Tennis के medal programme में शामिल होने के बाद भारत का पहला पदक है।"],
-    "highlights": ["जय मीणा", "भारत का पहला Asian Games पदक", "Soft Tennis", "Men’s Individual", "कांस्य पदक"],
+    "explanation": [
+      "जय मीणा ने Aichi-Nagoya Asian Games 2026 की Men’s Individual Soft Tennis स्पर्धा में कांस्य पदक जीतकर इस खेल में भारत का पहला Asian Games पदक हासिल किया। सेमीफाइनल में उन्हें जापान के Takuya Kurosaka से 2-4 से हार मिली, लेकिन सेमीफाइनल में पहुंचने के कारण कांस्य पदक सुनिश्चित हो गया। यह उपलब्धि Asian Games में Soft Tennis के medal programme में शामिल होने के बाद भारत का पहला पदक है।"
+    ],
+    "highlights": [
+      "जय मीणा",
+      "भारत का पहला Asian Games पदक",
+      "Soft Tennis",
+      "Men’s Individual",
+      "कांस्य पदक"
+    ],
     "source": "Olympics.com",
     "source_type": "Tier-2",
     "confidence": "HIGH",
@@ -42,10 +68,23 @@
     "date": "24 September 2026",
     "category": "रेलवे एवं प्रौद्योगिकी",
     "question_text": "भारतीय रेलवे ने पहली बार किस Railway Zone में KAVACH 4.0 को commission किया?",
-    "options": ["Northern Railway", "South Central Railway", "Western Railway", "Central Railway"],
+    "options": [
+      "Northern Railway",
+      "South Central Railway",
+      "Western Railway",
+      "Central Railway"
+    ],
     "correct_option_id": 1,
-    "explanation": ["भारतीय रेलवे ने 23 सितंबर 2026 को South Central Railway (SCR) में पहली बार KAVACH 4.0 को commission किया। यह upgraded indigenous Automatic Train Protection System है, जिसे Malkajgiri–Kamareddi section के 108 route kilometres पर लगाया गया है। KAVACH 4.0 में बेहतर location accuracy, signal information, Optical Fibre Cable interface और electronic interlocking integration जैसी सुविधाएँ हैं।"],
-    "highlights": ["KAVACH 4.0", "South Central Railway", "पहली बार", "108 route kilometres", "Automatic Train Protection System"],
+    "explanation": [
+      "भारतीय रेलवे ने 23 सितंबर 2026 को South Central Railway (SCR) में पहली बार KAVACH 4.0 को commission किया। यह upgraded indigenous Automatic Train Protection System है, जिसे Malkajgiri–Kamareddi section के 108 route kilometres पर लगाया गया है। KAVACH 4.0 में बेहतर location accuracy, signal information, Optical Fibre Cable interface और electronic interlocking integration जैसी सुविधाएँ हैं।"
+    ],
+    "highlights": [
+      "KAVACH 4.0",
+      "South Central Railway",
+      "पहली बार",
+      "108 route kilometres",
+      "Automatic Train Protection System"
+    ],
     "source": "Indian Railways report via The News Mill",
     "source_type": "Official + Tier-2",
     "confidence": "HIGH",
@@ -61,10 +100,23 @@
     "date": "24 September 2026",
     "category": "अंतरराष्ट्रीय एवं अर्थव्यवस्था",
     "question_text": "23 सितंबर 2026 को नई दिल्ली में आयोजित BRICS Heads of Tax Authorities Meeting में भारत की पहल पर कौन-से दो नए Working Groups प्रस्तावित किए गए?",
-    "options": ["International Taxation and Transfer Pricing तथा Revenue Statistics", "Digital Taxation तथा Customs Cooperation", "Tax Reforms तथा Financial Inclusion", "Revenue Statistics तथा Banking Regulation"],
+    "options": [
+      "International Taxation and Transfer Pricing तथा Revenue Statistics",
+      "Digital Taxation तथा Customs Cooperation",
+      "Tax Reforms तथा Financial Inclusion",
+      "Revenue Statistics तथा Banking Regulation"
+    ],
     "correct_option_id": 0,
-    "explanation": ["नई दिल्ली में आयोजित BRICS Heads of Tax Authorities Meeting में भारत ने दो नए Working Groups बनाने की पहल की। इनके विषय International Taxation and Transfer Pricing तथा Revenue Statistics हैं, जिनका उद्देश्य BRICS देशों के बीच कर सहयोग और साझा कर-प्रशासनिक समझ को मजबूत करना है। Revenue Statistics Working Group BRICS अर्थव्यवस्थाओं के अनुरूप tax-system performance को मापने के लिए framework विकसित करेगा।"],
-    "highlights": ["23 सितंबर 2026", "BRICS Heads of Tax Authorities Meeting", "नई दिल्ली", "International Taxation and Transfer Pricing", "Revenue Statistics"],
+    "explanation": [
+      "नई दिल्ली में आयोजित BRICS Heads of Tax Authorities Meeting में भारत ने दो नए Working Groups बनाने की पहल की। इनके विषय International Taxation and Transfer Pricing तथा Revenue Statistics हैं, जिनका उद्देश्य BRICS देशों के बीच कर सहयोग और साझा कर-प्रशासनिक समझ को मजबूत करना है। Revenue Statistics Working Group BRICS अर्थव्यवस्थाओं के अनुरूप tax-system performance को मापने के लिए framework विकसित करेगा।"
+    ],
+    "highlights": [
+      "23 सितंबर 2026",
+      "BRICS Heads of Tax Authorities Meeting",
+      "नई दिल्ली",
+      "International Taxation and Transfer Pricing",
+      "Revenue Statistics"
+    ],
     "source": "Ministry of Finance reports",
     "source_type": "Official + Tier-2",
     "confidence": "HIGH",
@@ -80,10 +132,23 @@
     "date": "24 September 2026",
     "category": "रक्षा एवं सैन्य अभ्यास",
     "question_text": "भारत और मंगोलिया के बीच संयुक्त सैन्य अभ्यास 'नोमैडिक एलिफेंट 2026' का 18वाँ संस्करण कहाँ आयोजित किया जा रहा है?",
-    "options": ["पिथौरागढ़, उत्तराखंड", "उलानबटार, मंगोलिया", "जैसलमेर, राजस्थान", "लेह, लद्दाख"],
+    "options": [
+      "पिथौरागढ़, उत्तराखंड",
+      "उलानबटार, मंगोलिया",
+      "जैसलमेर, राजस्थान",
+      "लेह, लद्दाख"
+    ],
     "correct_option_id": 0,
-    "explanation": ["भारत और मंगोलिया के बीच संयुक्त सैन्य अभ्यास 'नोमैडिक एलिफेंट 2026' का 18वाँ संस्करण उत्तराखंड के पिथौरागढ़ स्थित Foreign Training Node में आयोजित किया जा रहा है। यह अभ्यास 21 सितंबर से 3 अक्टूबर 2026 तक चलेगा और दोनों देशों के 45-45 सैनिक इसमें भाग ले रहे हैं। इसका उद्देश्य संयुक्त राष्ट्र के mandate के तहत semi-urban और mountainous क्षेत्रों में counter-insurgency operations के लिए interoperability और संयुक्त क्षमता बढ़ाना है।"],
-    "highlights": ["नोमैडिक एलिफेंट 2026", "18वाँ संस्करण", "पिथौरागढ़, उत्तराखंड", "21 सितंबर से 3 अक्टूबर 2026", "45-45 सैनिक"],
+    "explanation": [
+      "भारत और मंगोलिया के बीच संयुक्त सैन्य अभ्यास 'नोमैडिक एलिफेंट 2026' का 18वाँ संस्करण उत्तराखंड के पिथौरागढ़ स्थित Foreign Training Node में आयोजित किया जा रहा है। यह अभ्यास 21 सितंबर से 3 अक्टूबर 2026 तक चलेगा और दोनों देशों के 45-45 सैनिक इसमें भाग ले रहे हैं। इसका उद्देश्य संयुक्त राष्ट्र के mandate के तहत semi-urban और mountainous क्षेत्रों में counter-insurgency operations के लिए interoperability और संयुक्त क्षमता बढ़ाना है।"
+    ],
+    "highlights": [
+      "नोमैडिक एलिफेंट 2026",
+      "18वाँ संस्करण",
+      "पिथौरागढ़, उत्तराखंड",
+      "21 सितंबर से 3 अक्टूबर 2026",
+      "45-45 सैनिक"
+    ],
     "source": "PIB, Ministry of Defence",
     "source_type": "Official",
     "confidence": "HIGH",
@@ -99,10 +164,23 @@
     "date": "24 September 2026",
     "category": "विज्ञान एवं प्रौद्योगिकी",
     "question_text": "SEMICON India 2026 के दौरान कुल कितने MoUs, announcements और strategic initiatives दर्ज किए गए?",
-    "options": ["36", "46", "56", "66"],
+    "options": [
+      "36",
+      "46",
+      "56",
+      "66"
+    ],
     "correct_option_id": 2,
-    "explanation": ["SEMICON India 2026 के तीन दिवसीय आयोजन के दौरान कुल 56 MoUs, announcements और strategic initiatives दर्ज किए गए। इन पहलों में semiconductor design, fabrication, advanced packaging, equipment, materials, AI, high-performance computing, R&D, logistics और skilling जैसे क्षेत्र शामिल रहे। आयोजन में 600 से अधिक exhibitors, लगभग 300 international companies और 52 देशों की भागीदारी रही।"],
-    "highlights": ["SEMICON India 2026", "56 MoUs", "strategic initiatives", "advanced packaging", "600 से अधिक exhibitors"],
+    "explanation": [
+      "SEMICON India 2026 के तीन दिवसीय आयोजन के दौरान कुल 56 MoUs, announcements और strategic initiatives दर्ज किए गए। इन पहलों में semiconductor design, fabrication, advanced packaging, equipment, materials, AI, high-performance computing, R&D, logistics और skilling जैसे क्षेत्र शामिल रहे। आयोजन में 600 से अधिक exhibitors, लगभग 300 international companies और 52 देशों की भागीदारी रही।"
+    ],
+    "highlights": [
+      "SEMICON India 2026",
+      "56 MoUs",
+      "strategic initiatives",
+      "advanced packaging",
+      "600 से अधिक exhibitors"
+    ],
     "source": "News on AIR / IANS report",
     "source_type": "Official + Tier-2",
     "confidence": "HIGH",
@@ -118,10 +196,23 @@
     "date": "24 September 2026",
     "category": "पुरस्कार एवं सिनेमा",
     "question_text": "72वें National Film Awards में Best Direction का पुरस्कार किस फिल्म के लिए Rajkumar Periasamy को दिया गया?",
-    "options": ["Article 370", "Amaran", "Chandu Champion", "Kalki 2898 AD"],
+    "options": [
+      "Article 370",
+      "Amaran",
+      "Chandu Champion",
+      "Kalki 2898 AD"
+    ],
     "correct_option_id": 1,
-    "explanation": ["72वें National Film Awards में Rajkumar Periasamy को तमिल फिल्म 'Amaran' के लिए Best Direction का पुरस्कार दिया गया। Amaran Major Mukund Varadarajan की कहानी पर आधारित फिल्म है और इसे निर्देशन तथा अन्य श्रेणियों में भी सम्मान मिला। इसी समारोह में Article 370 को Best Feature Film, Yami Gautam को Best Actress और Mammootty तथा Kartik Aaryan को संयुक्त रूप से Best Actor का पुरस्कार मिला।"],
-    "highlights": ["72वें National Film Awards", "Best Direction", "Rajkumar Periasamy", "Amaran", "Article 370"],
+    "explanation": [
+      "72वें National Film Awards में Rajkumar Periasamy को तमिल फिल्म 'Amaran' के लिए Best Direction का पुरस्कार दिया गया। Amaran Major Mukund Varadarajan की कहानी पर आधारित फिल्म है और इसे निर्देशन तथा अन्य श्रेणियों में भी सम्मान मिला। इसी समारोह में Article 370 को Best Feature Film, Yami Gautam को Best Actress और Mammootty तथा Kartik Aaryan को संयुक्त रूप से Best Actor का पुरस्कार मिला।"
+    ],
+    "highlights": [
+      "72वें National Film Awards",
+      "Best Direction",
+      "Rajkumar Periasamy",
+      "Amaran",
+      "Article 370"
+    ],
     "source": "PIB, President's Secretariat",
     "source_type": "Official",
     "confidence": "HIGH",
@@ -137,10 +228,23 @@
     "date": "24 September 2026",
     "category": "नियुक्तियां एवं मीडिया",
     "question_text": "वर्ष 2026-27 के लिए News Broadcasters and Digital Association (NBDA) का अध्यक्ष एक बार फिर सर्वसम्मति से किसे चुना गया है?",
-    "options": ["रजत शर्मा", "राहुल कंवल", "एम.वी. श्रेयम्स कुमार", "अनुराधा प्रसाद शुक्ला"],
+    "options": [
+      "रजत शर्मा",
+      "राहुल कंवल",
+      "एम.वी. श्रेयम्स कुमार",
+      "अनुराधा प्रसाद शुक्ला"
+    ],
     "correct_option_id": 0,
-    "explanation": ["India TV के Chairman और Editor-in-Chief रजत शर्मा को वर्ष 2026-27 के लिए News Broadcasters and Digital Association (NBDA) का अध्यक्ष सर्वसम्मति से फिर चुना गया। यह निर्णय NBDA के Board of Directors की बैठक में लिया गया, जिसमें उनके नेतृत्व पर विश्वास व्यक्त किया गया। NBDA में 29 प्रमुख news और current-affairs broadcasters सदस्य हैं, जिनके अंतर्गत लगभग 130 news channels और digital platforms शामिल हैं।"],
-    "highlights": ["रजत शर्मा", "2026-27", "News Broadcasters and Digital Association (NBDA)", "सर्वसम्मति से", "29 प्रमुख broadcasters"],
+    "explanation": [
+      "India TV के Chairman और Editor-in-Chief रजत शर्मा को वर्ष 2026-27 के लिए News Broadcasters and Digital Association (NBDA) का अध्यक्ष सर्वसम्मति से फिर चुना गया। यह निर्णय NBDA के Board of Directors की बैठक में लिया गया, जिसमें उनके नेतृत्व पर विश्वास व्यक्त किया गया। NBDA में 29 प्रमुख news और current-affairs broadcasters सदस्य हैं, जिनके अंतर्गत लगभग 130 news channels और digital platforms शामिल हैं।"
+    ],
+    "highlights": [
+      "रजत शर्मा",
+      "2026-27",
+      "News Broadcasters and Digital Association (NBDA)",
+      "सर्वसम्मति से",
+      "29 प्रमुख broadcasters"
+    ],
     "source": "News Broadcasters and Digital Association report",
     "source_type": "Tier-2",
     "confidence": "HIGH",
@@ -154,31 +258,59 @@
   {
     "question_number": "Q9",
     "date": "24 September 2026",
-    "category": "विज्ञान एवं प्रौद्योगिकी",
-    "question_text": "Technology Development Board (TDB) ने स्वदेशी ePlane Advanced Air Mobility Solution के विकास के लिए किस कंपनी को ₹285 करोड़ की RDI सहायता स्वीकृत की है?",
-    "options": ["Ubifly Technologies Private Limited", "Garuda Aerospace", "AgniKul Cosmos", "Agnikul Technologies"],
+    "category": "बैंकिंग एवं वित्त",
+    "question_text": "सितंबर 2026 में RBI ने किस कंपनी को cross-border trade remittances संचालित करने की मंजूरी दी है?",
+    "options": [
+      "RNFI Money Private Limited",
+      "Fino Payments Bank",
+      "India Post Payments Bank",
+      "Jana Small Finance Bank"
+    ],
     "correct_option_id": 0,
-    "explanation": ["Technology Development Board (TDB) ने Chennai स्थित Ubifly Technologies Private Limited को स्वदेशी ePlane Advanced Air Mobility Solution के लिए ₹285 करोड़ की वित्तीय सहायता स्वीकृत की है। यह सहायता ₹1 लाख करोड़ के Research Development and Innovation (RDI) Fund के तहत Optionally Convertible Debentures के माध्यम से दी जाएगी। परियोजना का लक्ष्य e200X aircraft की Technology Readiness Level को TRL-6 से TRL-9 तक ले जाकर commercial deployment के करीब लाना है।"],
-    "highlights": ["Technology Development Board (TDB)", "Ubifly Technologies Private Limited", "₹285 करोड़", "RDI Fund", "TRL-6 से TRL-9"],
-    "source": "PIB, Department of Science and Technology",
-    "source_type": "Official",
+    "explanation": [
+      "RBI ने RNFI Money Private Limited को cross-border trade remittances संचालित करने की मंजूरी दी है।",
+      "इस मंजूरी के बाद कंपनी अपने मौजूदा last-mile network के माध्यम से regulated foreign exchange, remittance और trade-payment services उपलब्ध करा सकेगी।",
+      "यह मंजूरी RNFI Money के cross-border payments business के विस्तार के साथ-साथ उसके regulated financial-services operations को बढ़ाने में मदद करेगी।"
+    ],
+    "highlights": [
+      "RBI",
+      "RNFI Money Private Limited",
+      "cross-border trade remittances",
+      "last-mile network",
+      "trade-payment services"
+    ],
+    "source": "The Economic Times / RNFI Services Limited",
+    "source_type": "Tier-2",
     "confidence": "HIGH",
-    "importance": 5,
-    "news_age": "1 Day",
+    "importance": 4,
+    "news_age": "3 Days",
     "font_size_scale": 1.15,
     "explanation_image_url": "images/9.png",
     "explanation_image_label": "",
-    "source_url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313349&reg=48&lang=1"
+    "source_url": "https://economictimes.indiatimes.com/industry/banking/finance/rnfi-money-gets-rbi-approval-to-undertake-cross-border-trade-remittances/articleshow/134392464.cms"
   },
   {
     "question_number": "Q10",
     "date": "24 September 2026",
     "category": "अर्थव्यवस्था एवं पर्यटन",
     "question_text": "Domestic Tourism Expenditure Survey 2025–26 के अनुसार, पिछले 30 दिनों में किए गए overnight trips में प्रति यात्रा औसत सबसे अधिक खर्च किस प्रकार की यात्रा पर दर्ज किया गया?",
-    "options": ["सामाजिक यात्रा (Social)", "व्यावसायिक यात्रा (Business)", "तीर्थ एवं धार्मिक यात्रा (Pilgrimage & Religious)", "स्वास्थ्य एवं चिकित्सा यात्रा (Health & Medical)"],
+    "options": [
+      "सामाजिक यात्रा (Social)",
+      "व्यावसायिक यात्रा (Business)",
+      "तीर्थ एवं धार्मिक यात्रा (Pilgrimage & Religious)",
+      "स्वास्थ्य एवं चिकित्सा यात्रा (Health & Medical)"
+    ],
     "correct_option_id": 1,
-    "explanation": ["Domestic Tourism Expenditure Survey 2025–26 के अनुसार, पिछले 30 दिनों में किए गए overnight trips में Business trips पर प्रति यात्रा औसत सबसे अधिक ₹5,949 खर्च दर्ज किया गया। इसी अवधि में Social trips सबसे अधिक संख्या में किए गए overnight trips रहे, जबकि पिछले 365 दिनों में Pilgrimage & Religious trips overnight travel का प्रमुख उद्देश्य रहे। यह सर्वेक्षण जुलाई 2025 से जून 2026 की अवधि से संबंधित है और 23 सितंबर 2026 को जारी किया गया।"],
-    "highlights": ["Domestic Tourism Expenditure Survey 2025–26", "overnight trips", "Business trips", "₹5,949", "Social trips"],
+    "explanation": [
+      "Domestic Tourism Expenditure Survey 2025–26 के अनुसार, पिछले 30 दिनों में किए गए overnight trips में Business trips पर प्रति यात्रा औसत सबसे अधिक ₹5,949 खर्च दर्ज किया गया। इसी अवधि में Social trips सबसे अधिक संख्या में किए गए overnight trips रहे, जबकि पिछले 365 दिनों में Pilgrimage & Religious trips overnight travel का प्रमुख उद्देश्य रहे। यह सर्वेक्षण जुलाई 2025 से जून 2026 की अवधि से संबंधित है और 23 सितंबर 2026 को जारी किया गया।"
+    ],
+    "highlights": [
+      "Domestic Tourism Expenditure Survey 2025–26",
+      "overnight trips",
+      "Business trips",
+      "₹5,949",
+      "Social trips"
+    ],
     "source": "NSO/MoSPI survey findings reported by IANS",
     "source_type": "Official + Tier-2",
     "confidence": "HIGH",
