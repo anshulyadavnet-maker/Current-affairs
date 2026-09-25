@@ -1,0 +1,452 @@
+[
+  {
+    "question_number": "Q1",
+    "date": "26 September 2026",
+    "category": "विज्ञान एवं क्वांटम प्रौद्योगिकी",
+    "question_text": "DRDO ने क्वांटम अनुप्रयोगों के लिए किस क्षमता वाले Dilution Refrigerator के स्वदेशी विकास हेतु Zero mK India Private Limited के साथ समझौता किया?",
+    "options": [
+      "5 मिलीकेल्विन",
+      "10 मिलीकेल्विन",
+      "20 मिलीकेल्विन",
+      "50 मिलीकेल्विन"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "DRDO ने Zero mK India Private Limited के साथ 20 mK-class Dilution Refrigerator विकसित करने का समझौता किया।",
+      "यह Technology Development Fund (TDF) के ₹500 करोड़ deep-tech corpus के अंतर्गत पहला high-value project agreement है।",
+      "परियोजना quantum technology और advanced cryogenics को मजबूत करके imported infrastructure पर निर्भरता घटाएगी।"
+    ],
+    "exam_focus_facts": [
+      "कंपनी — Zero mK India Private Limited",
+      "क्षमता — 20 mK-class",
+      "योजना — Technology Development Fund",
+      "उद्देश्य — स्वदेशी quantum cryogenics"
+    ],
+    "related_facts": [
+      "Dilution Refrigerator millikelvin स्तर का तापमान बनाता है।",
+      "इसका उपयोग quantum computing platforms में होता है।",
+      "परियोजना National Quantum Mission के अनुरूप है।"
+    ],
+    "highlights": [
+      "DRDO",
+      "Zero mK India",
+      "20 मिलीकेल्विन",
+      "Dilution Refrigerator",
+      "Technology Development Fund"
+    ],
+    "source": "PIB / Ministry of Defence",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "2 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/1.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindubusinessline.com/news/science/drdo-signs-first-high-value-deep-tech-deal-with-start-up-for-quantum-technology/article71506843.ece"
+  },
+  {
+    "question_number": "Q2",
+    "date": "26 September 2026",
+    "category": "खेल एवं एशियाई खेल",
+    "question_text": "एशियन गेम्स 2026 में 10 मीटर एयर पिस्टल मिक्स्ड टीम स्पर्धा में भारत के लिए स्वर्ण पदक किस जोड़ी ने जीता?",
+    "options": [
+      "कैलाश कुमार और ईशा सिंह",
+      "कपालजीत सिंह और सुरभि चौधरी",
+      "किस्मत चोपड़ा और मनु भाकर",
+      "कमलजीत सिंह और सुरुचि सिंह"
+    ],
+    "correct_option_id": 3,
+    "explanation": [
+      "कमलजीत सिंह और सुरुचि सिंह ने 10 मीटर एयर पिस्टल mixed team में स्वर्ण जीता।",
+      "भारतीय जोड़ी ने फाइनल में 484.6 अंक बनाए और दक्षिण कोरिया को 478.0 अंकों से हराया।",
+      "यह भारत का पहला shooting gold और नया Asian Games record था।"
+    ],
+    "exam_focus_facts": [
+      "स्वर्ण — कमलजीत सिंह और सुरुचि सिंह",
+      "स्पर्धा — 10 मीटर एयर पिस्टल mixed team",
+      "फाइनल स्कोर — 484.6",
+      "दक्षिण कोरिया — 478.0"
+    ],
+    "related_facts": [
+      "भारतीय जोड़ी ने qualification में 587 अंक बनाए।",
+      "भारत ने 6.6 अंकों के अंतर से जीत दर्ज की।",
+      "ईरान ने कांस्य पदक जीता।"
+    ],
+    "highlights": [
+      "कमलजीत सिंह",
+      "सुरुचि सिंह",
+      "10 मीटर एयर पिस्टल",
+      "स्वर्ण पदक",
+      "484.6 अंक"
+    ],
+    "source": "Olympics.com / PTI",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "1 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/2.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.olympics.com/en/news/asian-games-2026-10m-air-pistol-mixed-team-gold-medal-india-report"
+  },
+  {
+    "question_number": "Q3",
+    "date": "26 September 2026",
+    "category": "रक्षा एवं सैन्य अभ्यास",
+    "question_text": "भारत-फ्रांस के बीच 24वें द्विपक्षीय नौसैन्य अभ्यास 'वरुण' के लिए भारतीय नौसेना का कौन-सा युद्धपोत फ्रांस के टूलॉन पहुंचा?",
+    "options": [
+      "INS Trishul",
+      "INS Tabar",
+      "INS Talwar",
+      "INS Sahyadri"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "INS Trishul 22 सितंबर 2026 को फ्रांस के Toulon पहुंचा और 24वें VARUNA अभ्यास में शामिल हुआ।",
+      "अभ्यास में harbour और sea phases, cross-deck visits तथा operational interactions शामिल हैं।",
+      "इसका उद्देश्य India-France naval interoperability, operational experience और maritime cooperation मजबूत करना है।"
+    ],
+    "exam_focus_facts": [
+      "अभ्यास — VARUNA का 24वाँ संस्करण",
+      "देश — भारत और फ्रांस",
+      "युद्धपोत — INS Trishul",
+      "स्थान — Toulon, France"
+    ],
+    "related_facts": [
+      "VARUNA भारत-फ्रांस का bilateral naval exercise है।",
+      "इसमें harbour और sea phases होते हैं।",
+      "अभ्यास interoperability और best-practice sharing बढ़ाता है।"
+    ],
+    "highlights": [
+      "24वाँ संस्करण",
+      "VARUNA",
+      "भारत-फ्रांस",
+      "INS Trishul",
+      "Toulon"
+    ],
+    "source": "The Hindu / Indian Navy",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "4 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/3.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindu.com/news/national/ins-trishul-reaches-france-for-24th-edition-of-india-france-naval-exercise-varuna/article71504891.ece"
+  },
+  {
+    "question_number": "Q4",
+    "date": "26 September 2026",
+    "category": "रक्षा एवं अंतरिक्ष",
+    "question_text": "सितंबर 2026 में UK Royal Air Force ने ब्रिटेन के उपग्रहों को शत्रुतापूर्ण अंतरिक्ष गतिविधियों से बचाने के लिए कौन-सा पहला समर्पित Space Squadron लॉन्च किया?",
+    "options": [
+      "No. I Space Operations Squadron",
+      "No. II Space Warning Squadron",
+      "No. III Space Effects Squadron",
+      "No. IV Space Defence Squadron"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "RAF ने 23 सितंबर 2026 को No. III Space Effects Squadron लॉन्च किया।",
+      "यह UK satellites के विरुद्ध hostile activity को disrupt, degrade और deny करने पर केंद्रित है।",
+      "Squadron Electronic Warfare सहित defensive और offensive space operations में सहायता करेगा।"
+    ],
+    "exam_focus_facts": [
+      "Squadron — No. III Space Effects Squadron",
+      "लॉन्च — 23 सितंबर 2026",
+      "संगठन — Royal Air Force",
+      "भूमिका — UK satellites की सुरक्षा"
+    ],
+    "related_facts": [
+      "No. I Space Operations Squadron threats monitor करता है।",
+      "No. II Space Warning Squadron warning capability देता है।",
+      "No. III Squadron counter-space और Electronic Warfare पर काम करेगा।"
+    ],
+    "highlights": [
+      "Royal Air Force",
+      "No. III Space Effects Squadron",
+      "23 सितंबर 2026",
+      "UK satellites",
+      "Electronic Warfare"
+    ],
+    "source": "UK Ministry of Defence / Royal Air Force",
+    "source_type": "Official",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "3 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/4.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.gov.uk/government/news/raf-launches-first-ever-space-squadron-dedicated-to-defending-britains-satellites"
+  },
+  {
+    "question_number": "Q5",
+    "date": "26 September 2026",
+    "category": "स्वास्थ्य एवं आयुष",
+    "question_text": "भारत सरकार की गजट अधिसूचना के अनुसार, प्रत्येक वर्ष 23 सितंबर को आधिकारिक रूप से किस दिवस के रूप में मनाया जाएगा?",
+    "options": [
+      "राष्ट्रीय आयुष दिवस",
+      "आयुर्वेद दिवस",
+      "राष्ट्रीय स्वास्थ्य दिवस",
+      "धन्वंतरि दिवस"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Gazette Notification के अनुसार 23 सितंबर को हर वर्ष Ayurveda Day मनाया जाएगा।",
+      "इससे पहले Ayurveda Day धनतेरस के दिन मनाया जाता था, जिसकी तिथि हर वर्ष बदलती थी।",
+      "23 सितंबर का संबंध Autumnal Equinox और प्रकृति में संतुलन की अवधारणा से जोड़ा गया है।"
+    ],
+    "exam_focus_facts": [
+      "आधिकारिक तिथि — 23 सितंबर",
+      "Gazette Notification — 23 मार्च 2025",
+      "पहले — धनतेरस",
+      "2026 — 11th Ayurveda Day"
+    ],
+    "related_facts": [
+      "2026 theme — Ayurveda for a Healthier Tomorrow",
+      "2026 का मुख्य समारोह नागपुर में हुआ।",
+      "दिवस का आयोजन Ministry of Ayush करता है।"
+    ],
+    "highlights": [
+      "23 सितंबर",
+      "Ayurveda Day",
+      "23 मार्च 2025",
+      "Gazette Notification",
+      "11th Ayurveda Day"
+    ],
+    "source": "Ministry of Ayush / Government notification",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "3 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/5.png",
+    "explanation_image_label": "",
+    "source_url": "https://en.vikaspedia.in/viewcontent/health/ayush/ayurveda-1/national-ayurveda-day"
+  },
+  {
+    "question_number": "Q6",
+    "date": "26 September 2026",
+    "category": "कृषि एवं महिला सशक्तिकरण",
+    "question_text": "महिला किसानों को स्वतंत्र किसान के रूप में कानूनी पहचान देने वाला 'महाराष्ट्र महिला किसान सशक्तिकरण अधिनियम, 2026' लागू करने वाला पहला राज्य कौन बना?",
+    "options": [
+      "महाराष्ट्र",
+      "गुजरात",
+      "कर्नाटक",
+      "मध्य प्रदेश"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "महाराष्ट्र Women Farmers Empowerment Act, 2026 लागू करने वाला पहला राज्य बना।",
+      "इसका उद्देश्य कृषि और allied activities में काम करने वाली महिलाओं को independent farmer की कानूनी पहचान देना है।",
+      "Woman Farmer Certificate से schemes, credit, insurance और कृषि सेवाओं तक access आसान होगा।"
+    ],
+    "exam_focus_facts": [
+      "पहला राज्य — महाराष्ट्र",
+      "अधिनियम — Maharashtra Women Farmers Empowerment Act, 2026",
+      "लक्ष्य — स्वतंत्र कानूनी पहचान",
+      "प्रमाणपत्र — Woman Farmer Certificate"
+    ],
+    "related_facts": [
+      "अधिनियम crop और allied activities वाली महिलाओं को cover करता है।",
+      "WFC से सरकारी schemes और credit तक access बढ़ता है।",
+      "Digital registry और dedicated fund का प्रावधान है।"
+    ],
+    "highlights": [
+      "महाराष्ट्र",
+      "महिला किसान सशक्तिकरण अधिनियम",
+      "2026",
+      "कानूनी पहचान",
+      "Woman Farmer Certificate"
+    ],
+    "source": "Indian Express / Maharashtra agriculture reports",
+    "source_type": "Tier-2",
+    "confidence": "MEDIUM",
+    "importance": 5,
+    "news_age": "2 Months",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/6.png",
+    "explanation_image_label": "",
+    "source_url": "https://indianexpress.com/article/opinion/columns/maharashtra-women-farmers-recognition-empowerment-act-policy-10788125/"
+  },
+  {
+    "question_number": "Q7",
+    "date": "26 September 2026",
+    "category": "विज्ञान एवं खगोल विज्ञान",
+    "question_text": "भारत का पहला NIT कौन बना, जिसने अपने परिसर में समर्पित Astronomical Observatory स्थापित की?",
+    "options": [
+      "NIT Srinagar",
+      "NIT Trichy",
+      "NIT Rourkela",
+      "NIT Warangal"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "NIT Srinagar ने 22 सितंबर 2026 को Observatory for Astronomy and Astrophysics (NSOAA) का उद्घाटन किया।",
+      "इसके साथ NIT Srinagar dedicated campus-based astronomical observatory वाला भारत का पहला NIT बना।",
+      "वेधशाला में 14-inch Celestron C14 EdgeHD telescope है और IIA Bengaluru का scientific guidance है।"
+    ],
+    "exam_focus_facts": [
+      "पहला NIT — NIT Srinagar",
+      "वेधशाला — NSOAA",
+      "उद्घाटन — 22 सितंबर 2026",
+      "टेलीस्कोप — 14-inch Celestron C14 EdgeHD"
+    ],
+    "related_facts": [
+      "NSOAA में planetary और deep-sky cameras हैं।",
+      "इसका उपयोग education, research, training और outreach में होगा।",
+      "Indian Institute of Astrophysics ने scientific guidance दिया।"
+    ],
+    "highlights": [
+      "NIT Srinagar",
+      "भारत का पहला NIT",
+      "NSOAA",
+      "22 सितंबर 2026",
+      "14-inch Celestron C14 EdgeHD"
+    ],
+    "source": "The Hindu / NIT Srinagar",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "4 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/7.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.thehindu.com/sci-tech/science/nit-srinagar-to-open-campus-observatory-with-14-inch-telescope/article71491214.ece"
+  },
+  {
+    "question_number": "Q8",
+    "date": "26 September 2026",
+    "category": "रक्षा एवं स्वदेशी विमानन",
+    "question_text": "HAL द्वारा भारतीय वायुसेना को सौंपे गए पहले series-production HTT-40 Basic Trainer Aircraft का नाम क्या रखा गया?",
+    "options": [
+      "गरुड़",
+      "अंकुर",
+      "ध्रुव",
+      "तेजस"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "HAL ने 18 सितंबर 2026 को पहला series-production HTT-40 IAF को सौंपा।",
+      "इस aircraft का नाम 'Ankur' रखा गया और 70 विमानों के contract के तहत deliveries शुरू हुईं।",
+      "HTT-40 स्वदेशी Basic Trainer Aircraft है, जिसे प्रारंभिक pilot training के लिए विकसित किया गया है।"
+    ],
+    "exam_focus_facts": [
+      "HTT-40 — Hindustan Turbo Trainer-40",
+      "निर्माता — HAL",
+      "नाम — Ankur",
+      "Contract — 70 aircraft"
+    ],
+    "related_facts": [
+      "HTT-40 को HAL के Aircraft Research and Design Centre ने design किया।",
+      "यह aerobatics, navigation और night flying training कर सकता है।",
+      "इसमें modern cockpit और avionics suite है।"
+    ],
+    "highlights": [
+      "HAL",
+      "IAF",
+      "HTT-40",
+      "Ankur",
+      "70 aircraft"
+    ],
+    "source": "The Week / HAL",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "8 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/8.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.theweek.in/news/defence/2026/09/18/not-merely-a-handover-hals-tejas-trainer-htt-40-dhruv-ng-mark-indias-defence-aerospace-self-reliance-milestone.html"
+  },
+  {
+    "question_number": "Q9",
+    "date": "26 September 2026",
+    "category": "अर्थव्यवस्था एवं वैश्विक व्यापार",
+    "question_text": "Global Business Climate Survey 2026 में 41 वैश्विक बाजारों में भारत को किस स्थान पर रखा गया?",
+    "options": [
+      "पहला",
+      "दूसरा",
+      "तीसरा",
+      "चौथा"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "Global Business Climate Survey 2026 में 41 markets में India को business climate के लिए पहला स्थान मिला।",
+      "यह survey Swedish companies के economic outlook और operating conditions का आकलन करता है।",
+      "India के बाद Ireland और Vietnam शीर्ष markets में रहे।"
+    ],
+    "exam_focus_facts": [
+      "Survey — Global Business Climate Survey 2026",
+      "कुल markets — 41",
+      "India — प्रथम स्थान",
+      "शीर्ष तीन — India, Ireland, Vietnam"
+    ],
+    "related_facts": [
+      "Survey Business Sweden और Swedish Chambers ने तैयार किया।",
+      "2026 edition में 2,250 से अधिक senior decision-makers शामिल हुए।",
+      "Asia-Pacific सबसे optimistic region रहा।"
+    ],
+    "highlights": [
+      "Global Business Climate Survey 2026",
+      "41 markets",
+      "India",
+      "पहला स्थान",
+      "Ireland और Vietnam"
+    ],
+    "source": "Business Sweden",
+    "source_type": "Official",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "7 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/9.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.business-sweden.com/about-us/media/press-releases/press-releases/2026/continued-confidence-despite-global-turbulence/"
+  },
+  {
+    "question_number": "Q10",
+    "date": "26 September 2026",
+    "category": "सरकारी योजना एवं महिला सशक्तिकरण",
+    "question_text": "दिल्ली कैबिनेट द्वारा सितंबर 2026 में स्वीकृत 'DURGA Scheme' का मुख्य उद्देश्य क्या है?",
+    "options": [
+      "महिलाओं और ट्रांसजेंडर व्यक्तियों को इलेक्ट्रिक ऑटो के माध्यम से आजीविका एवं सुरक्षित परिवहन उपलब्ध कराना",
+      "महिलाओं को मुफ्त इलेक्ट्रिक स्कूटर उपलब्ध कराना",
+      "दिल्ली में केवल महिला बस चालकों की नियुक्ति करना",
+      "महिलाओं के लिए नए मेट्रो कॉरिडोर का निर्माण करना"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "दिल्ली कैबिनेट ने 23 सितंबर 2026 को DURGA Scheme को मंजूरी दी।",
+      "पहले चरण में 1,300 pink electric autos प्रस्तावित हैं—1,170 महिलाओं और 130 transgender beneficiaries के लिए।",
+      "योजना livelihood, women’s safety, transgender participation और clean last-mile transport बढ़ाएगी।"
+    ],
+    "exam_focus_facts": [
+      "DURGA — Driving Upliftment and Rozgar for Women/Transgender Green E-Auto",
+      "पहला चरण — 1,300 autos",
+      "महिलाओं के लिए — 1,170",
+      "Transgender beneficiaries — 130"
+    ],
+    "related_facts": [
+      "लाभार्थी electric auto के owner और driver बनेंगे।",
+      "हर revenue district में 90 women और 10 transgender autos तक होंगे।",
+      "योजना में 3-year lock-in period है।"
+    ],
+    "highlights": [
+      "DURGA Scheme",
+      "1,300 pink electric autos",
+      "1,170",
+      "130 transgender beneficiaries",
+      "last-mile transport"
+    ],
+    "source": "New Indian Express / Delhi Government",
+    "source_type": "Official + Tier-2",
+    "confidence": "HIGH",
+    "importance": 5,
+    "news_age": "3 Days",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/10.png",
+    "explanation_image_label": "",
+    "source_url": "https://www.newindianexpress.com/cities/delhi/2026/Sep/24/women-transgenders-to-become-owners-of-electric-autos-under-durga-scheme"
+  }
+]
