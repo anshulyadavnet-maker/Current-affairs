@@ -1,0 +1,422 @@
+[
+  {
+    "question_number": "Q1",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "भारत का पहला indigenous working micro-GPU किस संस्थान ने विकसित किया?",
+    "options": [
+      "IIT Bombay",
+      "IIT Delhi",
+      "IIT Madras",
+      "IISc Bengaluru"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "IIT Delhi के शोधकर्ताओं ने यह working indigenous micro-GPU विकसित किया।",
+      "इसे Spartan-7 FPGA पर RTL के माध्यम से प्रदर्शित किया गया।",
+      "अगला लक्ष्य 8–16 core architecture और 65 nm ASIC proof-of-concept है।"
+    ],
+    "exam_focus_facts": [
+      "IIT Delhi",
+      "Indigenous micro-GPU",
+      "Spartan-7 FPGA"
+    ],
+    "related_facts": [
+      "Jayadeva और Kaushik Saha",
+      "Industrial displays में उपयोग",
+      "8–16 core अगला लक्ष्य"
+    ],
+    "highlights": [
+      "IIT Delhi",
+      "Indigenous micro-GPU",
+      "Spartan-7 FPGA"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/1.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q2",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "भारत सरकार ने कितने बंदरगाहों को Mega Ports घोषित किया है?",
+    "options": [
+      "दो",
+      "तीन",
+      "चार",
+      "पाँच"
+    ],
+    "correct_option_id": 2,
+    "explanation": [
+      "सरकार ने पहली बार चार बंदरगाहों को Mega Port घोषित किया।",
+      "इनमें Deendayal, Jawaharlal Nehru, Paradip और Mundra Port शामिल हैं।",
+      "यह दर्जा Indian Ports Act, 2025 की धारा 73 के तहत मिला।"
+    ],
+    "exam_focus_facts": [
+      "चार Mega Ports",
+      "Deendayal Port",
+      "Jawaharlal Nehru, Paradip और Mundra"
+    ],
+    "related_facts": [
+      "Mundra एकमात्र private port",
+      "दर्जा पाँच वर्षों के लिए",
+      "Mega Port cargo criteria"
+    ],
+    "highlights": [
+      "चार Mega Ports",
+      "Deendayal Port",
+      "Jawaharlal Nehru, Paradip और Mundra"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/2.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q3",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "AIIB की 11वीं Annual Meeting 2026 की theme क्या है?",
+    "options": [
+      "Financing Asia’s Green Future",
+      "Tomorrow’s Infrastructure: Impact and Innovation",
+      "Infrastructure for Sustainable Asia",
+      "Building Resilient Economies"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "AIIB की 11वीं Annual Meeting 28–29 सितंबर 2026 को Doha में हुई।",
+      "Theme “Tomorrow’s Infrastructure: Impact and Innovation” रही।",
+      "बैठक sustainable infrastructure, digital transformation और private capital पर केंद्रित रही।"
+    ],
+    "exam_focus_facts": [
+      "11वीं Annual Meeting",
+      "Doha, Qatar",
+      "Tomorrow’s Infrastructure: Impact and Innovation"
+    ],
+    "related_facts": [
+      "AIIB headquarters Beijing",
+      "AIIB ने 2016 में operations शुरू किए",
+      "Ali bin Ahmed Al Kuwari BoG Chair"
+    ],
+    "highlights": [
+      "11वीं Annual Meeting",
+      "Doha, Qatar",
+      "Tomorrow’s Infrastructure: Impact and Innovation"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/3.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q4",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "COFO 28 सम्मेलन कहाँ आयोजित किया जा रहा है?",
+    "options": [
+      "Rome, Italy",
+      "Paris, France",
+      "Nairobi, Kenya",
+      "Vienna, Austria"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "भारत ने COFO 28 में forest and landscape restoration initiatives प्रस्तुत कीं।",
+      "सम्मेलन Rome में 28 सितंबर से 2 अक्टूबर 2026 तक हुआ।",
+      "भारत ने sustainable forest management और climate action पर जोर दिया।"
+    ],
+    "exam_focus_facts": [
+      "COFO — Committee on Forestry",
+      "28वाँ सत्र",
+      "Rome, Italy"
+    ],
+    "related_facts": [
+      "COFO FAO का forestry forum है",
+      "Forest restoration पर focus",
+      "28 सितंबर–2 अक्टूबर"
+    ],
+    "highlights": [
+      "COFO — Committee on Forestry",
+      "28वाँ सत्र",
+      "Rome, Italy"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/4.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q5",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "Sādhana Shrinkhla 2026 का पहला regional workshop कहाँ आयोजित होगा?",
+    "options": [
+      "गुवाहाटी",
+      "विजयवाड़ा",
+      "लखनऊ",
+      "पुणे"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "पहला regional workshop विजयवाड़ा में 29–30 सितंबर 2026 को हुआ।",
+      "यह Mission Karmayogi के तहत आयोजित किया गया।",
+      "इसका focus Training Institutes को Capacity Building Institutions में बदलना है।"
+    ],
+    "exam_focus_facts": [
+      "पहला workshop — Vijayawada",
+      "29–30 सितंबर 2026",
+      "Capacity Building Commission"
+    ],
+    "related_facts": [
+      "अगले workshops Guwahati, Lucknow और Pune",
+      "UNNATI portal",
+      "Mission Karmayogi"
+    ],
+    "highlights": [
+      "पहला workshop — Vijayawada",
+      "29–30 सितंबर 2026",
+      "Capacity Building Commission"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/5.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q6",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "KAZIND-2026 भारत और किस देश के बीच आयोजित हो रहा है?",
+    "options": [
+      "कजाकिस्तान",
+      "किर्गिस्तान",
+      "उज्बेकिस्तान",
+      "मंगोलिया"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "KAZIND-2026 भारत और कजाकिस्तान का संयुक्त सैन्य अभ्यास है।",
+      "यह Oskemen, Kazakhstan में 28 सितंबर से 11 अक्टूबर तक हुआ।",
+      "इसका focus संयुक्त counter-terrorism operations है।"
+    ],
+    "exam_focus_facts": [
+      "KAZIND-2026",
+      "India–Kazakhstan",
+      "Oskemen"
+    ],
+    "related_facts": [
+      "9वाँ संस्करण",
+      "60-60 सदस्य",
+      "Counter-terrorism operations"
+    ],
+    "highlights": [
+      "KAZIND-2026",
+      "India–Kazakhstan",
+      "Oskemen"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/6.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q7",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "विथ्या रामराज ने 400m hurdles में कौन-सा रिकॉर्ड तोड़ा?",
+    "options": [
+      "पी.टी. उषा का 42 साल पुराना रिकॉर्ड",
+      "अनु राघवन का रिकॉर्ड",
+      "शाइनी विल्सन का रिकॉर्ड",
+      "हिमा दास का रिकॉर्ड"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "विथ्या रामराज ने 54.75 सेकंड में कांस्य जीता।",
+      "उन्होंने P.T. Usha का 55.42 सेकंड का national record तोड़ा।",
+      "यह record 1984 Los Angeles Olympics में बना था।"
+    ],
+    "exam_focus_facts": [
+      "विथ्या रामराज — 54.75 सेकंड",
+      "पदक — Bronze",
+      "P.T. Usha record"
+    ],
+    "related_facts": [
+      "0.67 सेकंड सुधार",
+      "Women’s 400m hurdles",
+      "2023 में record बराबर किया था"
+    ],
+    "highlights": [
+      "विथ्या रामराज — 54.75 सेकंड",
+      "पदक — Bronze",
+      "P.T. Usha record"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/7.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q8",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "Asian Games Decathlon में दो पदक जीतने वाले पहले भारतीय पुरुष कौन बने?",
+    "options": [
+      "तेजस्विन शंकर",
+      "सर्वेश कुशारे",
+      "प्रवीण कुमार",
+      "अविनाश साबले"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "तेजस्विन शंकर ने 2026 Asian Games में Decathlon bronze जीता।",
+      "उन्होंने Hangzhou 2022 में silver medal जीता था।",
+      "वे Decathlon में दो Asian Games medals जीतने वाले पहले भारतीय पुरुष बने।"
+    ],
+    "exam_focus_facts": [
+      "2026 — Bronze",
+      "2022 — Silver",
+      "7,934 points"
+    ],
+    "related_facts": [
+      "Decathlon में 10 events",
+      "National Record 8,057 points",
+      "पहले भारतीय पुरुष"
+    ],
+    "highlights": [
+      "2026 — Bronze",
+      "2022 — Silver",
+      "7,934 points"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/8.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q9",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "Sawan Barwal ने Asian Games 2026 में कौन-सा ऐतिहासिक पदक जीता?",
+    "options": [
+      "Gold, Marathon",
+      "Silver, Marathon",
+      "Bronze, Marathon",
+      "Silver, 10,000m"
+    ],
+    "correct_option_id": 1,
+    "explanation": [
+      "Sawan Barwal ने men’s marathon में silver medal जीता।",
+      "उन्होंने 2:11:37 का national record बनाया।",
+      "यह Asian Games marathon में भारत का 44 वर्षों बाद पहला पदक था।"
+    ],
+    "exam_focus_facts": [
+      "Sawan Barwal — Silver",
+      "Men’s Marathon",
+      "2:11:37"
+    ],
+    "related_facts": [
+      "1982 में पिछला medal",
+      "Japan के Ichitaka Yamashita ने gold जीता",
+      "National Record"
+    ],
+    "highlights": [
+      "Sawan Barwal — Silver",
+      "Men’s Marathon",
+      "2:11:37"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/9.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  },
+  {
+    "question_number": "Q10",
+    "date": "29 September 2026",
+    "category": "Current Affairs",
+    "question_text": "CBSE के नए Chairperson के रूप में किसे नियुक्त किया गया?",
+    "options": [
+      "Mandeep K. Bhandari",
+      "Lokhande Prashant Sitaram",
+      "Rahul Singh",
+      "Himanshu Gupta"
+    ],
+    "correct_option_id": 0,
+    "explanation": [
+      "Mandeep K. Bhandari को CBSE का नया Chairperson नियुक्त किया गया।",
+      "वे 2001-batch AGMUT cadre के IAS अधिकारी हैं।",
+      "Chairperson का पद Additional Secretary rank/pay तक upgraded किया गया।"
+    ],
+    "exam_focus_facts": [
+      "CBSE Chairperson — Mandeep K. Bhandari",
+      "IAS 2001, AGMUT",
+      "Additional Secretary rank/pay"
+    ],
+    "related_facts": [
+      "पूर्व भूमिका J&K LG के Principal Secretary",
+      "Amarnathji Shrine Board CEO",
+      "Lokhande के बाद नियुक्ति"
+    ],
+    "highlights": [
+      "CBSE Chairperson — Mandeep K. Bhandari",
+      "IAS 2001, AGMUT",
+      "Additional Secretary rank/pay"
+    ],
+    "source": "Studyhub Point current-affairs compilation",
+    "source_type": "Tier-2",
+    "confidence": "HIGH",
+    "importance": 4,
+    "news_age": "0 Day",
+    "font_size_scale": 1.06,
+    "explanation_image_url": "images/10.png",
+    "explanation_image_label": "",
+    "source_url": "https://studyhubpoint.anshulyadav.net/studyhubpoint/current-1M"
+  }
+]
